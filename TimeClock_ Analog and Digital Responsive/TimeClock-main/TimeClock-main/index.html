@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/mobile.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <title>Clock</title>
+</head>
+
+<body onload="initClock()">
+  <div class="nav">
+    <h1>Your Time Is Valuable</h1>
+    <div class="btn">
+      <button class="dig" onclick="digital()">Digital clock</button>
+      <button class="analog" onclick="analog()">Analog Clock</button>
+    </div>
+  </div>
+  <div class="clock">
+    <div class="hour">
+      <div class="hor" id="hor">
+
+      </div>
+    </div>
+    <div class="minutes">
+      <div class="mn" id="mn">
+
+      </div>
+    </div>
+    <div class="seconds">
+      <div class="sc" id="sc">
+
+      </div>
+    </div>
+  </div>
+  <div class="datetime">
+    <div class="date">
+      <span id="day">Day</span>,
+      <span id="month">Month</span>
+      <span id="num">00</span>,
+      <span id="year">Year</span>
+    </div>
+    <div class="time">
+      <span id="hour">00</span>:
+      <span id="min">00</span>:
+      <span id="sec">00</span>
+      <span id="period">AM</span>
+    </div>
+  </div>
+  <script src="js/clock.js"></script>
+  <script src="js/digital.js"></script>
+
+</body>
+
+</html>

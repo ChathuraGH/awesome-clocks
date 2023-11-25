@@ -1,0 +1,67 @@
+:root {
+  --background-color: #b71540;
+  --clock-color: #fff;
+  --clock-size: 300px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--background-color);
+}
+
+.clock {
+  max-width: var(--clock-size);
+}
+
+.clock .hand {
+  stroke: var(--clock-color);
+}
+
+.clock .hand.hours {
+  stroke-width: 2;
+}
+
+.clock .hand.minutes {
+  stroke-width: 1;
+}
+
+.clock .hand.seconds {
+  stroke-width: 0.5;
+}
+
+.clock .hour-marks {
+  fill: var(--clock-color);
+}
+
+.clock .minute-marks .mark {
+  stroke: var(--clock-color);
+  stroke-width: 0.5;
+}
+
+.clock .second-marks .mark {
+  stroke: var(--clock-color);
+  stroke-width: 0.3;
+}
+
+.clock .minute-marks .numbered-mark {
+  fill: var(--clock-color);
+  font-size: 3px;
+  font-family: sans-serif;
+  text-anchor: middle;
+}
+
+.clock .second-marks .numbered-mark {
+  fill: var(--clock-color);
+  font-size: 2px;
+  font-family: sans-serif;
+  text-anchor: middle;
+}
