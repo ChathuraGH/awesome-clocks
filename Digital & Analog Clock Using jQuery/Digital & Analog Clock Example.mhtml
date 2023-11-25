@@ -1,0 +1,128 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.jqueryscript.net/demo/digital-analog/
+Subject: Digital & Analog Clock Example
+Date: Mon, 13 Nov 2023 08:55:29 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zK92bvIoHrDu1Jj79q6ywMivJP9ZI6wPIi64JHyvcs----"
+
+
+------MultipartBoundary--zK92bvIoHrDu1Jj79q6ywMivJP9ZI6wPIi64JHyvcs----
+Content-Type: text/html
+Content-ID: <frame-47EEA34D870B30A5190C11CDEE5EAE6E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/demo/digital-analog/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <link rel=3D"stylesheet" href=3D"https://www.jqueryscript.net/demo/digi=
+tal-analog/style.css">
+    <title>Digital &amp; Analog Clock Example</title>
+</head>
+<body>
+    <div class=3D"clock tm">
+        <div class=3D"hand hour" style=3D"--rotation: 267.7416666666667;"><=
+/div>
+        <div class=3D"hand minute" style=3D"--rotation: 332.9;"></div>
+        <div class=3D"hand second" style=3D"--rotation: 174;"></div>
+        <div class=3D"number number1">1</div>
+        <div class=3D"number number2">2</div>
+        <div class=3D"number number3">3</div>
+        <div class=3D"number number4">4</div>
+        <div class=3D"number number5">5</div>
+        <div class=3D"number number6">6</div>
+        <div class=3D"number number7">7</div>
+        <div class=3D"number number8">8</div>
+        <div class=3D"number number9">9</div>
+        <div class=3D"number number10">10</div>
+        <div class=3D"number number11">11</div>
+        <div class=3D"number number12">12</div>
+    </div>
+    <div class=3D"digital">
+        <h1 class=3D"digits hours">08</h1>
+        <h1 class=3D"digits">:</h1>
+        <h1 class=3D"digits minutes">55</h1>
+        <h1 class=3D"digits">:</h1>
+        <h1 class=3D"digits seconds">29</h1>
+    </div>
+    <div id=3D"date">
+        <h1 class=3D"date day">Mon</h1>
+        <h1 class=3D"date month">Nov</h1>
+        <h1 class=3D"date year">2023</h1>
+    </div>
+   =20
+   =20
+
+
+
+</body></html>
+------MultipartBoundary--zK92bvIoHrDu1Jj79q6ywMivJP9ZI6wPIi64JHyvcs----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/demo/digital-analog/style.css
+
+@charset "utf-8";
+
+body { background: black; display: flex; justify-content: center; align-ite=
+ms: center; min-height: 100vh; overflow: hidden; }
+
+.clock { width: 350px; height: 350px; border-radius: 50%; margin: 80px 0px;=
+ position: relative; }
+
+.clock .number { --rotation: 0; position: absolute; width: 100%; height: 10=
+0%; text-align: center; font-size: 40px; transform: rotate(var(--rotation))=
+; }
+
+.clock .number1 { --rotation: 30deg; }
+
+.clock .number2 { --rotation: 60deg; }
+
+.clock .number3 { --rotation: 90deg; }
+
+.clock .number4 { --rotation: 120deg; }
+
+.clock .number5 { --rotation: 150deg; }
+
+.clock .number6 { --rotation: 180deg; }
+
+.clock .number7 { --rotation: 210deg; }
+
+.clock .number8 { --rotation: 240deg; }
+
+.clock .number9 { --rotation: 270deg; }
+
+.clock .number10 { --rotation: 300deg; }
+
+.clock .number11 { --rotation: 330deg; }
+
+.clock .hand { --rotation: 0; position: absolute; bottom: 50%; left: 50%; b=
+order: 1px solid white; border-radius: 50%; transform-origin: center bottom=
+; transform: translateX(-50%) rotate(calc(var(--rotation) * 1deg)); }
+
+.clock .hand.second { width: 3px; height: 45%; background-color: red; }
+
+.clock .hand.minute { width: 7px; height: 40%; background-color: rgb(102, 2=
+55, 102); }
+
+.clock .hand.hour { width: 10px; height: 35%; background-color: rgb(102, 25=
+5, 102); }
+
+.digital { position: absolute; bottom: 5px; }
+
+#date { position: absolute; top: 50px; }
+
+.date { display: inline-block; margin: 0px 20px; }
+
+.digits { display: inline-block; margin: 0px 20px; }
+
+@font-face { font-family: digital-clock-font; src: url("digital-7.ttf"); }
+
+h1 { color: rgb(102, 255, 102); font-family: digital-clock-font; }
+
+.number { color: rgb(102, 255, 102); font-family: digital-clock-font; font-=
+size: 40px; }
+------MultipartBoundary--zK92bvIoHrDu1Jj79q6ywMivJP9ZI6wPIi64JHyvcs------
