@@ -1,0 +1,364 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://plugins.slyweb.ch/jquery-clock-timepicker/
+Subject: jQuery Clock Time Picker
+Date: Mon, 13 Nov 2023 08:47:27 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--tdlXjFaaSg7FUIoq653TyOfhUDRTy2zDb3jWB4Q7hG----"
+
+
+------MultipartBoundary--tdlXjFaaSg7FUIoq653TyOfhUDRTy2zDb3jWB4Q7hG----
+Content-Type: text/html
+Content-ID: <frame-C2AEDB20248EE95BAA02D3BB5A405138@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://plugins.slyweb.ch/jquery-clock-timepicker/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-1ada9c=
+a0-d8e8-4c33-8400-04be6b767ba8@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-604edbc9-8ba5-4baa-81f3-b43e8a1f025a@mhtml.bl=
+ink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0, maximum-scale=3D1.0, user-scalable=3D0">
+  <title>jQuery Clock Time Picker</title>
+ =20
+ =20
+ =20
+ =20
+ </head>
+ <body>
+  <div class=3D"main">
+   <h1>jQuery Clock Time Picker v2.6.4</h1>
+   <h3>NPM package "jquery-clock-timepicker"</h3>
+   <p>A free jQuery Plug-in to select the time with a clock inspired by the=
+ Android time picker. This plugin works on Desktop and Mobile phones.</p>
+   <p>Install with NPM or download it directly from GitHub:<br><a href=3D"h=
+ttps://github.com/loebi-ch/jquery-clock-timepicker" target=3D"_blank">https=
+://github.com/loebi-ch/jquery-clock-timepicker</a></p>
+   <p>The manual can be found on <a href=3D"https://github.com/loebi-ch/jqu=
+ery-clock-timepicker/blob/master/README.md" target=3D"_blank">GitHub</a>.</=
+p>
+   <h2>Examples</h2>
+   <h3>(with the most important settings. Of course, you can combine these =
+different settings...)</h3>
+   <p class=3D"example">
+    <strong>Standard time picker</strong><br>
+	<i>(no settings specified)</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time standard" type=3D"text" value=3D"10:15" aut=
+ocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"min-=
+width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"positi=
+on: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-size: 26=
+px; font-family: Arial; font-weight: 400; line-height: normal;">10</div><di=
+v class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 99999; =
+cursor: default; position: fixed; width: 200px; background-color: rgb(255, =
+255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radius:=
+ 5px; overflow: hidden; user-select: none; visibility: visible; left: 313.8=
+48px; top: 75.8242px;"><div style=3D"position: relative; width: 180px; heig=
+ht: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-canvas" wi=
+dth=3D"180" height=3D"180" style=3D"cursor: default; position: absolute; to=
+p: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-minute-canva=
+s" width=3D"180" height=3D"180" style=3D"cursor: default; position: absolut=
+e; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z-index: 1;=
+"></canvas></div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Required time picker</strong><br>
+	<i>{ required: true }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time required" type=3D"text" value=3D"08:45" aut=
+ocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"min-=
+width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"positi=
+on: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-size: 26=
+px; font-family: Arial; font-weight: 400; line-height: normal;">08</div><di=
+v class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 99999; =
+cursor: default; position: fixed; width: 200px; background-color: rgb(255, =
+255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radius:=
+ 5px; overflow: hidden; user-select: none; visibility: visible; left: 313.8=
+48px; top: -13.4065px;"><div style=3D"position: relative; width: 180px; hei=
+ght: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-canvas" w=
+idth=3D"180" height=3D"180" style=3D"cursor: default; position: absolute; t=
+op: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-minute-canv=
+as" width=3D"180" height=3D"180" style=3D"cursor: default; position: absolu=
+te; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z-index: 1=
+;"></canvas></div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Time picker with different separator</strong><br>
+	<i>{ seperator: '.' }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time separatorTime" type=3D"text" value=3D"18.45=
+" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D=
+"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"p=
+osition: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-siz=
+e: 26px; font-family: Arial; font-weight: 400; line-height: normal;"></div>=
+<div class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 9999=
+9; cursor: default; position: fixed; width: 200px; background-color: rgb(25=
+5, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radi=
+us: 5px; overflow: hidden; user-select: none;"><div style=3D"position: rela=
+tive; width: 180px; height: 180px; margin: 10px;"><canvas class=3D"clock-ti=
+mepicker-hour-canvas" width=3D"180" height=3D"180" style=3D"cursor: default=
+; position: absolute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock=
+-timepicker-minute-canvas" width=3D"180" height=3D"180" style=3D"cursor: de=
+fault; position: absolute; top: 0px; left: 0px; display: none;"></canvas></=
+div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Time picker with precision</strong><br>
+	<table>
+	 <tbody><tr>
+	  <td>
+	   <i>{ precision: 5 }</i><br>
+       <div class=3D"clock-timepicker" style=3D"display:inline-block; posit=
+ion:relative"><input class=3D"time precisionTime5" type=3D"text" value=3D"0=
+6:00" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" styl=
+e=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;">0=
+6</div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-inde=
+x: 99999; cursor: default; position: fixed; width: 200px; background-color:=
+ rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; bord=
+er-radius: 5px; overflow: hidden; user-select: none; visibility: visible; l=
+eft: 38.6003px; top: 210.886px;"><div style=3D"position: relative; width: 1=
+80px; height: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-=
+canvas" width=3D"180" height=3D"180" style=3D"cursor: default; position: ab=
+solute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-mi=
+nute-canvas" width=3D"180" height=3D"180" style=3D"cursor: default; positio=
+n: absolute; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z=
+-index: 1;"></canvas></div></div></div>
+	  </td>
+	  <td>
+	   <i>{ precision: 10 }</i><br>
+       <div class=3D"clock-timepicker" style=3D"display:inline-block; posit=
+ion:relative"><input class=3D"time precisionTime10" type=3D"text" value=3D"=
+07:10" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" sty=
+le=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;">0=
+7</div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-inde=
+x: 99999; cursor: default; position: fixed; width: 200px; background-color:=
+ rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; bord=
+er-radius: 5px; overflow: hidden; user-select: none; visibility: visible; l=
+eft: 160.482px; top: 210.886px;"><div style=3D"position: relative; width: 1=
+80px; height: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-=
+canvas" width=3D"180" height=3D"180" style=3D"cursor: default; position: ab=
+solute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-mi=
+nute-canvas" width=3D"180" height=3D"180" style=3D"cursor: default; positio=
+n: absolute; top: 0px; left: 0px; display: none;"></canvas></div></div></di=
+v>
+	  </td>
+	  <td>
+	   <i>{ precision: 15 }</i><br>
+       <div class=3D"clock-timepicker" style=3D"display:inline-block; posit=
+ion:relative"><input class=3D"time precisionTime15" type=3D"text" value=3D"=
+08:15" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" sty=
+le=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;">0=
+8</div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-inde=
+x: 99999; cursor: default; position: fixed; width: 200px; background-color:=
+ rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; bord=
+er-radius: 5px; overflow: hidden; user-select: none; visibility: visible; l=
+eft: 292.069px; top: 210.886px;"><div style=3D"position: relative; width: 1=
+80px; height: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-=
+canvas" width=3D"180" height=3D"180" style=3D"cursor: default; position: ab=
+solute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-mi=
+nute-canvas" width=3D"180" height=3D"180" style=3D"cursor: default; positio=
+n: absolute; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z=
+-index: 1;"></canvas></div></div></div>
+	  </td>
+	  <td>
+	   <i>{ precision: 30 }</i><br>
+       <div class=3D"clock-timepicker" style=3D"display:inline-block; posit=
+ion:relative"><input class=3D"time precisionTime30" type=3D"text" value=3D"=
+09:30" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" sty=
+le=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;">0=
+9</div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-inde=
+x: 99999; cursor: default; position: fixed; width: 200px; background-color:=
+ rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; bord=
+er-radius: 5px; overflow: hidden; user-select: none; visibility: visible; l=
+eft: 423.655px; top: 210.886px;"><div style=3D"position: relative; width: 1=
+80px; height: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-=
+canvas" width=3D"180" height=3D"180" style=3D"cursor: default; position: ab=
+solute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-mi=
+nute-canvas" width=3D"180" height=3D"180" style=3D"cursor: default; positio=
+n: absolute; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z=
+-index: 1;"></canvas></div></div></div>
+	  </td>
+	  <td>
+	   <i>{ precision: 60 }</i><br>
+       <div class=3D"clock-timepicker" style=3D"display:inline-block; posit=
+ion:relative"><input class=3D"time precisionTime60" type=3D"text" value=3D"=
+10:00" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" sty=
+le=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;"><=
+/div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-index:=
+ 99999; cursor: default; position: fixed; width: 200px; background-color: r=
+gb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border=
+-radius: 5px; overflow: hidden; user-select: none; visibility: visible; lef=
+t: 555.242px; top: 210.886px;"><div style=3D"position: relative; width: 180=
+px; height: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-ca=
+nvas" width=3D"180" height=3D"180" style=3D"cursor: default; position: abso=
+lute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-minu=
+te-canvas" width=3D"180" height=3D"180" style=3D"cursor: default; position:=
+ absolute; top: 0px; left: 0px; display: none;"></canvas></div></div></div>
+	  </td>
+	 </tr>
+	</tbody></table>
+   </p>
+   <p class=3D"example">
+    <strong>Time picker - show clock picker only on mobile phones</strong><=
+br>
+	<i>{ onlyShowClockOnMobile: true }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time simpleTime" type=3D"text" value=3D"22:00" a=
+utocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"mi=
+n-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"posi=
+tion: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-size: =
+26px; font-family: Arial; font-weight: 400; line-height: normal;">22</div><=
+div class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 99999=
+; cursor: default; position: fixed; width: 200px; background-color: rgb(255=
+, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radiu=
+s: 5px; overflow: hidden; user-select: none; visibility: hidden; left: 313.=
+848px; top: 224.629px;"><div style=3D"position: relative; width: 180px; hei=
+ght: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-canvas" w=
+idth=3D"180" height=3D"180" style=3D"cursor: default; position: absolute; t=
+op: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-minute-canv=
+as" width=3D"180" height=3D"180" style=3D"cursor: default; position: absolu=
+te; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z-index: 1=
+;"></canvas></div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Duration picker</strong><br>
+	<i>{ duration: true, maximum: '80:00' }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time duration" type=3D"text" value=3D"18:30" aut=
+ocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"min-=
+width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"positi=
+on: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-size: 26=
+px; font-family: Arial; font-weight: 400; line-height: normal;">18</div><di=
+v class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 99999; =
+cursor: default; position: fixed; width: 200px; background-color: rgb(255, =
+255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radius:=
+ 5px; overflow: hidden; user-select: none; visibility: visible; left: 313.8=
+48px; top: 91.5522px;"><div style=3D"position: relative; width: 180px; heig=
+ht: 180px; margin: 10px;"><canvas class=3D"clock-timepicker-hour-canvas" wi=
+dth=3D"180" height=3D"180" style=3D"cursor: default; position: absolute; to=
+p: 0px; left: 0px;"></canvas><canvas class=3D"clock-timepicker-minute-canva=
+s" width=3D"180" height=3D"180" style=3D"cursor: default; position: absolut=
+e; top: 0px; left: 0px; display: block; zoom: 100%; opacity: 1; z-index: 1;=
+"></canvas></div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Duration picker that allows to select negative durations</stron=
+g><br>
+	<i>{ duration: true, durationNegative: true }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time durationNegative" type=3D"text" value=3D"-1=
+:10" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=
+=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=
+=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px; fon=
+t-size: 26px; font-family: Arial; font-weight: 400; line-height: normal;"><=
+/div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-index:=
+ 99999; cursor: default; position: fixed; width: 200px; background-color: r=
+gb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border=
+-radius: 5px; overflow: hidden; user-select: none;"><div style=3D"position:=
+ relative; width: 180px; height: 180px; margin: 10px;"><canvas class=3D"clo=
+ck-timepicker-hour-canvas" width=3D"180" height=3D"180" style=3D"cursor: de=
+fault; position: absolute; top: 0px; left: 0px;"></canvas><canvas class=3D"=
+clock-timepicker-minute-canvas" width=3D"180" height=3D"180" style=3D"curso=
+r: default; position: absolute; top: 0px; left: 0px; display: none;"></canv=
+as></div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Duration picker with minimum and maximum</strong><br>
+	<i>{ duration: true, minimum: '1:00', maximum: '5:30' }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time durationMinMax" type=3D"text" value=3D"2:30=
+" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D=
+"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" style=3D"p=
+osition: absolute; opacity: 0; display: none; top: 5px; left: 0px; font-siz=
+e: 26px; font-family: Arial; font-weight: 400; line-height: normal;"></div>=
+<div class=3D"clock-timepicker-popup" style=3D"display: none; z-index: 9999=
+9; cursor: default; position: fixed; width: 200px; background-color: rgb(25=
+5, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; border-radi=
+us: 5px; overflow: hidden; user-select: none;"><div style=3D"position: rela=
+tive; width: 180px; height: 180px; margin: 10px;"><canvas class=3D"clock-ti=
+mepicker-hour-canvas" width=3D"180" height=3D"180" style=3D"cursor: default=
+; position: absolute; top: 0px; left: 0px;"></canvas><canvas class=3D"clock=
+-timepicker-minute-canvas" width=3D"180" height=3D"180" style=3D"cursor: de=
+fault; position: absolute; top: 0px; left: 0px; display: none;"></canvas></=
+div></div></div>
+   </p>
+   <p class=3D"example">
+    <strong>Negative duration picker with minimum and maximum</strong><br>
+	<i>{ duration: true, durationNegative: true, minimum: '-5:00', maximum: '5=
+:00', precision: 5 }</i><br>
+    <div class=3D"clock-timepicker" style=3D"display:inline-block; position=
+:relative"><input class=3D"time durationNegativeMinMax" type=3D"text" value=
+=3D"-2:00" autocomplete=3D"off" autocapitalize=3D"off" spellcheck=3D"false"=
+ style=3D"min-width: 93.9972px;"><div class=3D"clock-timepicker-autosize" s=
+tyle=3D"position: absolute; opacity: 0; display: none; top: 5px; left: 0px;=
+ font-size: 26px; font-family: Arial; font-weight: 400; line-height: normal=
+;"></div><div class=3D"clock-timepicker-popup" style=3D"display: none; z-in=
+dex: 99999; cursor: default; position: fixed; width: 200px; background-colo=
+r: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.14) 0px 4px 20px 0px; bo=
+rder-radius: 5px; overflow: hidden; user-select: none;"><div style=3D"posit=
+ion: relative; width: 180px; height: 180px; margin: 10px;"><canvas class=3D=
+"clock-timepicker-hour-canvas" width=3D"180" height=3D"180" style=3D"cursor=
+: default; position: absolute; top: 0px; left: 0px;"></canvas><canvas class=
+=3D"clock-timepicker-minute-canvas" width=3D"180" height=3D"180" style=3D"c=
+ursor: default; position: absolute; top: 0px; left: 0px; display: none;"></=
+canvas></div></div></div>
+   </p>
+   <p>
+    Find more settings in the README on <a href=3D"https://github.com/loebi=
+-ch/jquery-clock-timepicker/blob/master/README.md" target=3D"_blank">GitHub=
+</a>.<br>
+	If you miss settings, please feel free to submit a <a href=3D"https://gith=
+ub.com/loebi-ch/jquery-clock-timepicker/issues/new" target=3D"_blank">GitHu=
+b issue request</a>.
+   </p>
+  </div>
+=20
+</body></html>
+------MultipartBoundary--tdlXjFaaSg7FUIoq653TyOfhUDRTy2zDb3jWB4Q7hG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1ada9ca0-d8e8-4c33-8400-04be6b767ba8@mhtml.blink
+
+@charset "utf-8";
+
+h1 { font-size: 20px; margin-bottom: 3px; }
+
+h2 { margin-top: 40px; margin-bottom: 3px; }
+
+h3 { font-size: 13px; margin-top: 0px; }
+
+.main { text-align: center; }
+
+.example { margin-bottom: 25px; }
+
+.example table { width: 650px; margin: 0px auto; }
+
+@media (max-width: 650px) {
+  .example table { width: 100%; }
+  .example td { display: block; text-align: center; }
+}
+
+.time { display: inline-block; font-size: 26px; padding: 5px; text-align: c=
+enter; width: 94px; margin-top: 5px; }
+------MultipartBoundary--tdlXjFaaSg7FUIoq653TyOfhUDRTy2zDb3jWB4Q7hG----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-604edbc9-8ba5-4baa-81f3-b43e8a1f025a@mhtml.blink
+
+@charset "utf-8";
+
+.clock-timepicker input { caret-color: transparent; }
+------MultipartBoundary--tdlXjFaaSg7FUIoq653TyOfhUDRTy2zDb3jWB4Q7hG------

@@ -1,0 +1,286 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.jqueryscript.net/demo/Analog-Clock-jsRapClock/
+Subject: jsRapClock: Analog Clock Demo
+Date: Mon, 13 Nov 2023 08:56:39 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----"
+
+
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/html
+Content-ID: <frame-2932E36F420A50E70B8A1B47FDCF0D73@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/demo/Analog-Clock-jsRapClock/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-06a48c3c-198b-401f-a26e-fa273d6a4224@mhtml.blink" />
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ shrink-to-fit=3Dno">
+<title>jsRapClock: Analog Clock Demo</title>
+<link rel=3D"stylesheet" href=3D"https://www.jqueryscript.net/demo/Analog-C=
+lock-jsRapClock/jsRapClock.css">
+<link rel=3D"stylesheet" href=3D"https://www.jqueryscript.net/demo/Analog-C=
+lock-jsRapClock/index.css">
+
+
+<link href=3D"https://www.jqueryscript.net/css/jquerysctipttop.css" rel=3D"=
+stylesheet" type=3D"text/css">
+
+
+<meta http-equiv=3D"origin-trial" content=3D"As0hBNJ8h++fNYlkq8cTye2qDLyom8=
+NddByiVytXGGD0YVE+2CEuTCpqXMDxdhOMILKoaiaYifwEvCRlJ/9GcQ8AAAB8eyJvcmlnaW4iO=
+iJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0=
+ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnV=
+lfQ=3D=3D"><meta http-equiv=3D"origin-trial" content=3D"AgRYsXo24ypxC89CJan=
+C+JgEmraCCBebKl8ZmG7Tj5oJNx0cmH0NtNRZs3NB5ubhpbX/bIt7l2zJOSyO64NGmwMAAACCey=
+JvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV=
+2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlz=
+U3ViZG9tYWluIjp0cnVlfQ=3D=3D"><meta http-equiv=3D"origin-trial" content=3D"=
+A/ERL66fN363FkXxgDc6F1+ucRUkAhjEca9W3la6xaLnD2Y1lABsqmdaJmPNaUKPKVBRpyMKEhX=
+Yl7rSvrQw+AkAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZW=
+F0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5O=
+TksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv=
+=3D"origin-trial" content=3D"A6OdGH3fVf4eKRDbXb4thXA4InNqDJDRhZ8U533U/roYjp=
+4Yau0T3YSuc63vmAs/8ga1cD0E3A7LEq6AXk1uXgsAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb=
+2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rp=
+b25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJ=
+kUGFydHkiOnRydWV9"></head>
+<body>
+  <div id=3D"jquery-script-menu">
+<div class=3D"jquery-script-center">
+<ul>
+<li><a href=3D"https://www.jqueryscript.net/time-clock/Analog-Clock-jsRapCl=
+ock.html">Download This Plugin</a></li>
+<li><a href=3D"https://www.jqueryscript.net/">Back To jQueryScript.Net</a><=
+/li>
+</ul>
+<div class=3D"jquery-script-ads" style=3D"margin: 0px; padding: 0px; border=
+-width: 0px;">
+<ins class=3D"adsbygoogle adsbygoogle-noablate" data-ad-client=3D"ca-pub-27=
+83044520727903" data-ad-height=3D"90" data-ad-slot=3D"2780937993" data-ad-w=
+idth=3D"728" data-adsbygoogle-status=3D"done" style=3D"display: inline-bloc=
+k; width: 0px; height: 0px;" data-ad-status=3D"unfilled"><div id=3D"aswift_=
+0_host" tabindex=3D"0" title=3D"Advertisement" aria-label=3D"Advertisement"=
+ style=3D"border: none; height: 0px; width: 0px; margin: 0px; padding: 0px;=
+ position: relative; visibility: visible; background-color: transparent; di=
+splay: inline-block; overflow: hidden; opacity: 0;"><iframe id=3D"aswift_0"=
+ name=3D"aswift_0" browsingtopics=3D"true" style=3D"left: 0px; position: ab=
+solute; top: 0px; border: 0px; width: 0px; height: 0px;" sandbox=3D"allow-f=
+orms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-sc=
+ripts allow-top-navigation-by-user-activation" width=3D"0" height=3D"0" fra=
+meborder=3D"0" marginwidth=3D"0" marginheight=3D"0" vspace=3D"0" hspace=3D"=
+0" allowtransparency=3D"true" scrolling=3D"no" allow=3D"attribution-reporti=
+ng" src=3D"cid:frame-8982F79BC84FA4CC890E28BEB3A5A414@mhtml.blink" data-goo=
+gle-container-id=3D"a!1" data-google-query-id=3D"COPJutaDwIIDFZ6D2AUdZWUEKA=
+" data-load-complete=3D"true"></iframe></div></ins></div>
+<div class=3D"jquery-script-clear"></div>
+</div>
+</div>
+<div id=3D"divMain">
+  <h1>jsRapClock: Analog Clock Demo</h1>
+<div id=3D"demo" class=3D"rapClock" style=3D"height: 300px;"><div class=3D"=
+rapClockCaption">jQueryScript</div><div class=3D"rapClockHours" style=3D"tr=
+ansform: translate(-50%, -50%) rotate(0deg) translate(0px, 460%);"></div><d=
+iv class=3D"rapClockHours" style=3D"transform: translate(-50%, -50%) rotate=
+(30deg) translate(0px, 460%);"></div><div class=3D"rapClockHours" style=3D"=
+transform: translate(-50%, -50%) rotate(60deg) translate(0px, 460%);"></div=
+><div class=3D"rapClockHours" style=3D"transform: translate(-50%, -50%) rot=
+ate(90deg) translate(0px, 460%);"></div><div class=3D"rapClockHours" style=
+=3D"transform: translate(-50%, -50%) rotate(120deg) translate(0px, 460%);">=
+</div><div class=3D"rapClockHours" style=3D"transform: translate(-50%, -50%=
+) rotate(150deg) translate(0px, 460%);"></div><div class=3D"rapClockHours" =
+style=3D"transform: translate(-50%, -50%) rotate(180deg) translate(0px, 460=
+%);"></div><div class=3D"rapClockHours" style=3D"transform: translate(-50%,=
+ -50%) rotate(210deg) translate(0px, 460%);"></div><div class=3D"rapClockHo=
+urs" style=3D"transform: translate(-50%, -50%) rotate(240deg) translate(0px=
+, 460%);"></div><div class=3D"rapClockHours" style=3D"transform: translate(=
+-50%, -50%) rotate(270deg) translate(0px, 460%);"></div><div class=3D"rapCl=
+ockHours" style=3D"transform: translate(-50%, -50%) rotate(300deg) translat=
+e(0px, 460%);"></div><div class=3D"rapClockHours" style=3D"transform: trans=
+late(-50%, -50%) rotate(330deg) translate(0px, 460%);"></div><div class=3D"=
+rapClockHands rapClockH" style=3D"transform: translate(-50%, -50%) rotate(3=
+13deg) translate(0px, -40%);"></div><div class=3D"rapClockHands rapClockM" =
+style=3D"transform: translate(-50%, -50%) rotate(516deg) translate(0px, -48=
+%);"></div><div class=3D"rapClockHands rapClockS" style=3D"transform: trans=
+late(-50%, -50%) rotate(234deg) translate(0px, -35%);"></div></div>
+</div>
+
+
+
+<ins class=3D"adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status=3D"=
+done" style=3D"display: none !important;" data-ad-status=3D"unfilled"><div =
+id=3D"aswift_1_host" tabindex=3D"0" title=3D"Advertisement" aria-label=3D"A=
+dvertisement" style=3D"border: none; height: 0px; width: 0px; margin: 0px; =
+padding: 0px; position: relative; visibility: visible; background-color: tr=
+ansparent; display: inline-block;"><iframe id=3D"aswift_1" name=3D"aswift_1=
+" browsingtopics=3D"true" style=3D"left:0;position:absolute;top:0;border:0;=
+width:undefinedpx;height:undefinedpx;" sandbox=3D"allow-forms allow-popups =
+allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-na=
+vigation-by-user-activation" frameborder=3D"0" marginwidth=3D"0" marginheig=
+ht=3D"0" vspace=3D"0" hspace=3D"0" allowtransparency=3D"true" scrolling=3D"=
+no" allow=3D"attribution-reporting" src=3D"cid:frame-959A2A5277E001918BB037=
+B131D7E181@mhtml.blink" data-google-container-id=3D"a!2" data-load-complete=
+=3D"true"></iframe></div></ins><iframe src=3D"cid:frame-6CF280CD5EF3A19B331=
+E130A5C65AD16@mhtml.blink" width=3D"0" height=3D"0" style=3D"display: none;=
+"></iframe></body><iframe id=3D"google_esf" name=3D"google_esf" src=3D"cid:=
+frame-2D1C363A0DE3C6E67B8AB2980BA44382@mhtml.blink" style=3D"display: none;=
+"></iframe></html>
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-06a48c3c-198b-401f-a26e-fa273d6a4224@mhtml.blink
+
+@charset "utf-8";
+
+body { min-height: 100vh; background-image: linear-gradient(to top, rgb(255=
+, 241, 235) 0%, rgb(172, 224, 249) 100%); }
+
+#divMain { margin: 150px auto; max-width: 300px; }
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/demo/Analog-Clock-jsRapClock/jsRapClock.css
+
+@charset "utf-8";
+
+.rapClock { background: radial-gradient(rgb(255, 255, 255) 10%, rgb(204, 20=
+4, 204) 61%, rgb(68, 68, 68) 62%, rgb(136, 0, 0) 63%, rgb(68, 0, 0) 100%); =
+font-family: "Comic Sans MS", cursive, sans-serif; position: relative; bord=
+er-radius: 50%; box-shadow: rgb(0, 0, 0) -2px -2px 4px inset, rgb(255, 255,=
+ 255) 2px 2px 4px inset, rgb(0, 0, 0) 2px 2px 4px, black 0px 0px 4px; text-=
+align: center; text-shadow: rgb(255, 255, 255) 0px 0px 2px; }
+
+.rapClockCaption { padding-top: 25%; }
+
+.rapClockHours { top: 50%; left: 50%; width: 2%; height: 8%; position: abso=
+lute; background-color: rgb(0, 0, 0); }
+
+.rapClockHands { top: 50%; left: 50%; position: absolute; border-radius: 50=
+% / 90% 90% 10% 10%; }
+
+.rapClockS { width: 2%; height: 46%; z-index: 3; background-color: rgb(153,=
+ 0, 0); }
+
+.rapClockM { width: 3%; height: 34%; z-index: 2; background-color: rgb(34, =
+34, 34); }
+
+.rapClockH { width: 5%; height: 25%; z-index: 1; background-color: rgb(34, =
+34, 34); }
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/demo/Analog-Clock-jsRapClock/index.css
+
+@charset "utf-8";
+
+#divMain { margin: auto; width: 80%; }
+
+#divGitHub { top: 0px; right: 0px; width: 200px; height: 200px; overflow: h=
+idden; position: absolute; z-index: 1; }
+
+#GitHub { background-color: rgb(136, 0, 0); border: 2px solid black; color:=
+ white; cursor: pointer; font: bold 14px Arial, Helvetica, sans-serif; heig=
+ht: 20px; padding-top: 3px; position: absolute; right: 60px; text-align: ce=
+nter; transform: translate(50%, -50%) rotate(45deg); text-shadow: black 0px=
+ 0px 8px; top: 60px; width: 240px; user-select: none; }
+
+#GitHub:hover { background-color: rgb(255, 0, 0); }
+
+#demo1 { width: 200px; float: left; margin: 8px; }
+
+#demo2 { width: 25%; float: left; margin: 8px; }
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.jqueryscript.net/css/jquerysctipttop.css
+
+@charset "utf-8";
+
+#jquery-script-menu { position: absolute; height: 90px; width: 100%; top: 0=
+px; left: 0px; border-top: 5px solid rgb(49, 101, 148); background: rgb(255=
+, 255, 255); box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 3px 0px; z-index: 9999=
+99; padding: 10px 0px; box-sizing: content-box; }
+
+.jquery-script-center { max-width: 960px; margin: 0px auto; }
+
+.jquery-script-center ul { width: 212px; float: left; line-height: 45px; ma=
+rgin: 0px; padding: 0px; list-style: none; }
+
+.jquery-script-center a { text-decoration: none; }
+
+.jquery-script-ads { max-width: 728px; height: 90px; float: right; }
+
+.jquery-script-clear { clear: both; height: 0px; }
+
+#carbonads { display: block; overflow: hidden; max-width: 728px; position: =
+relative; font-size: 22px; box-sizing: content-box; }
+
+#carbonads > span { display: block; }
+
+#carbonads a { color: rgb(64, 120, 192); text-decoration: none; }
+
+#carbonads a:hover { color: rgb(54, 100, 163); }
+
+.carbon-wrap { display: flex; align-items: center; }
+
+.carbon-img { display: block; margin: 0px; line-height: 1; }
+
+.carbon-img img { display: block; height: 90px; width: auto; }
+
+.carbon-text { display: block; padding: 0px 1em; line-height: 1.35; text-al=
+ign: left; }
+
+.carbon-poweredby { display: block; position: absolute; bottom: 0px; right:=
+ 0px; padding: 6px 10px; text-align: center; text-transform: uppercase; let=
+ter-spacing: 0.5px; font-weight: 600; font-size: 8px; border-top-left-radiu=
+s: 4px; line-height: 1; color: rgb(170, 170, 170) !important; }
+
+@media only screen and (min-width: 320px) and (max-width: 759px) {
+  .carbon-text { font-size: 14px; }
+}
+
+@media only screen and (max-width: 1023px) {
+  .jquery-script-ads { display: none; }
+}
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/html
+Content-ID: <frame-2D1C363A0DE3C6E67B8AB2980BA44382@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://googleads.g.doubleclick.net/pagead/html/r20231108/r20190131/zrt_lookup_fy2021.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"></head><body>
+</body></html>
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/html
+Content-ID: <frame-8982F79BC84FA4CC890E28BEB3A5A414@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2783044520727903&output=html&h=90&slotname=2780937993&adk=1543449994&adf=2096595577&pi=t.ma~as.2780937993&w=728&lmt=1535908116&url=https%3A%2F%2Fwww.jqueryscript.net%2Fdemo%2FAnalog-Clock-jsRapClock%2F&ea=0&wgl=1&uach=WyJXaW5kb3dzIiwiOC4wLjAiLCJ4ODYiLCIiLCIxMTkuMC42MDQ1LjEyNCIsbnVsbCwwLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTE5LjAuNjA0NS4xMjQiXSxbIkNocm9taXVtIiwiMTE5LjAuNjA0NS4xMjQiXSxbIk5vdD9BX0JyYW5kIiwiMjQuMC4wLjAiXV0sMF0.&dt=1699845961151&bpp=1753&bdt=1545&idt=1882&shv=r20231108&mjsv=m202311020101&ptt=5&saldr=sd&abxe=1&cookie=ID%3D5f4b32ecca388786-2200971e2de4004c%3AT%3D1696034840%3ART%3D1699845883%3AS%3DALNI_MaBLCpbVFwqR5vz7CnZbsoGhDSVHA&gpic=UID%3D00000c555ed315b4%3AT%3D1696034840%3ART%3D1699845883%3AS%3DALNI_MbzcUD_loN7rURQWSsHZYQSf137wg&correlator=1800449953290&frm=20&pv=2&ga_vid=1563366067.1696034836&ga_sid=1699845765&ga_hid=1428515524&ga_fc=1&u_tz=330&u_his=1&u_h=475&u_w=844&u_ah=453&u_aw=844&u_cd=24&u_sd=1.517&dmc=8&adx=373&ady=15&biw=1241&bih=516&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C31079266%2C31079401%2C31079516%2C44807462%2C31078301%2C31079382%2C44807751%2C44806140%2C44807763%2C44808149%2C44808285%2C31078663%2C31078665%2C31078668%2C31078670&oid=2&pvsid=3595876124324883&tmod=780134938&uas=0&nvt=1&fc=896&brdim=0%2C0%2C0%2C0%2C844%2C0%2C0%2C0%2C1266%2C516&vis=2&rsz=%7C%7ClEer%7C&abl=CS&pfx=0&fu=0&bc=31&td=1&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=1&uci=a!1&fsb=1&dtd=1915
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"></head><body marginwidth=3D"0" marginheight=3D"0">=
+</body></html>
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/html
+Content-ID: <frame-959A2A5277E001918BB037B131D7E181@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2783044520727903&output=html&adk=1812271804&adf=3025194257&lmt=1535908116&plat=1%3A1024%2C2%3A1024%2C3%3A2097152%2C4%3A2097152%2C9%3A134250504%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fwww.jqueryscript.net%2Fdemo%2FAnalog-Clock-jsRapClock%2F&ea=0&pra=7&wgl=1&easpi=0&asro=0&asiscm=1&aslmt=0.4&asamt=-1&asedf=0&asefa=1&aseiel=1~2&ascmds=1&itsi=5&uach=WyJXaW5kb3dzIiwiOC4wLjAiLCJ4ODYiLCIiLCIxMTkuMC42MDQ1LjEyNCIsbnVsbCwwLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTE5LjAuNjA0NS4xMjQiXSxbIkNocm9taXVtIiwiMTE5LjAuNjA0NS4xMjQiXSxbIk5vdD9BX0JyYW5kIiwiMjQuMC4wLjAiXV0sMF0.&dt=1699845962925&bpp=25&bdt=3320&idt=159&shv=r20231108&mjsv=m202311020101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D5f4b32ecca388786-2200971e2de4004c%3AT%3D1696034840%3ART%3D1699845883%3AS%3DALNI_MaBLCpbVFwqR5vz7CnZbsoGhDSVHA&gpic=UID%3D00000c555ed315b4%3AT%3D1696034840%3ART%3D1699845883%3AS%3DALNI_MbzcUD_loN7rURQWSsHZYQSf137wg&prev_slotnames=2780937993&nras=1&correlator=1800449953290&frm=20&pv=1&ga_vid=1563366067.1696034836&ga_sid=1699845765&ga_hid=1428515524&ga_fc=1&u_tz=330&u_his=1&u_h=475&u_w=844&u_ah=453&u_aw=844&u_cd=24&u_sd=1.517&dmc=8&adx=-12245933&ady=-12245933&biw=1241&bih=516&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C31079266%2C31079401%2C31079516%2C44807462%2C31078301%2C31079382%2C44807751%2C44806140%2C44807763%2C44808149%2C44808285%2C31078663%2C31078665%2C31078668%2C31078670&oid=2&pvsid=3595876124324883&tmod=780134938&uas=0&nvt=1&fsapi=1&fc=896&brdim=0%2C0%2C0%2C0%2C844%2C0%2C0%2C0%2C1266%2C516&vis=2&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&td=1&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=2&uci=a!2&fsb=1&dtd=173
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body marginwidth=3D"0" marginheight=3D"0"></body></html>
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU----
+Content-Type: text/html
+Content-ID: <frame-6CF280CD5EF3A19B331E130A5C65AD16@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.google.com/recaptcha/api2/aframe
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"></head><body><img src=3D"https://pagead2.googlesyn=
+dication.com/pagead/sodar?id=3Dsodar2&amp;v=3D225&amp;li=3Dgda_r20231108&am=
+p;jk=3D3595876124324883&amp;rc=3D"></body></html>
+------MultipartBoundary--yAbt9m6slwKtRaNCuGekMW2SLOWftYVBeF0R5yakKU------
