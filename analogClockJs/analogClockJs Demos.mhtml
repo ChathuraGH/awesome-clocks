@@ -1,0 +1,250 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.cssscript.com/demo/create-customizable-analog-clocks-using-pure-js-analogclockjs/
+Subject: analogClockJs Demos
+Date: Mon, 13 Nov 2023 09:08:58 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HJuUbAXMi0xSQnlmyZgwhgkfGAxUSfO8BiyGYIt2bw----"
+
+
+------MultipartBoundary--HJuUbAXMi0xSQnlmyZgwhgkfGAxUSfO8BiyGYIt2bw----
+Content-Type: text/html
+Content-ID: <frame-95506234BC07F63844716915A3B3B6DA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.cssscript.com/demo/create-customizable-analog-clocks-using-pure-js-analogclockjs/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-bfa31397-f86c-474a-8fd2-24643451cd49@mhtml.blink" /><link rel=3D"s=
+tylesheet" type=3D"text/css" href=3D"cid:css-18e4de36-6ac7-4759-80e9-b0ab76=
+79b311@mhtml.blink" />
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+    <title>analogClockJs Demos</title>
+   =20
+</head>
+<body>
+   =20
+    <h1>analogClockJs Demos</h1>
+    <div class=3D"css-script-ads" style=3D"margin:30px auto;">
+   =20
+      </div>
+    <div id=3D"clock">
+    <div style=3D"border-radius: 50%; background-color: rgb(238, 238, 238);=
+ border: 1px solid rgb(204, 204, 204); width: 200px; height: 200px; positio=
+n: relative;"><h4 style=3D"width: 100%; text-align: center; font-weight: no=
+rmal; font-size: 13.3333px; margin-top: 120px; color: rgb(0, 0, 0);">2023-1=
+1-13<br> 9:8:58</h4><ul style=3D"height: 100%; padding: 0px; margin: 0px; l=
+ist-style: none; position: absolute; width: 40px; top: 0px; left: 80px; col=
+or: rgb(0, 0, 0);"><li style=3D"padding: 0px; margin: 0px; position: absolu=
+te; text-align: center; width: 40px; height: 200px; font-size: 20px; transf=
+orm: rotate(30deg);"><div style=3D"width: 100%; position: absolute; text-al=
+ign: center; transform: rotate(-30deg);">1</div><div style=3D"width: 100%; =
+position: absolute; text-align: center; bottom: 0px; transform: rotate(-30d=
+eg);">7</div></li><li style=3D"padding: 0px; margin: 0px; position: absolut=
+e; text-align: center; width: 40px; height: 200px; font-size: 20px; transfo=
+rm: rotate(60deg);"><div style=3D"width: 100%; position: absolute; text-ali=
+gn: center; transform: rotate(-60deg);">2</div><div style=3D"width: 100%; p=
+osition: absolute; text-align: center; bottom: 0px; transform: rotate(-60de=
+g);">8</div></li><li style=3D"padding: 0px; margin: 0px; position: absolute=
+; text-align: center; width: 40px; height: 200px; font-size: 20px; transfor=
+m: rotate(90deg);"><div style=3D"width: 100%; position: absolute; text-alig=
+n: center; transform: rotate(-90deg);">3</div><div style=3D"width: 100%; po=
+sition: absolute; text-align: center; bottom: 0px; transform: rotate(-90deg=
+);">9</div></li><li style=3D"padding: 0px; margin: 0px; position: absolute;=
+ text-align: center; width: 40px; height: 200px; font-size: 20px; transform=
+: rotate(120deg);"><div style=3D"width: 100%; position: absolute; text-alig=
+n: center; transform: rotate(-120deg);">4</div><div style=3D"width: 100%; p=
+osition: absolute; text-align: center; bottom: 0px; transform: rotate(-120d=
+eg);">10</div></li><li style=3D"padding: 0px; margin: 0px; position: absolu=
+te; text-align: center; width: 40px; height: 200px; font-size: 20px; transf=
+orm: rotate(150deg);"><div style=3D"width: 100%; position: absolute; text-a=
+lign: center; transform: rotate(-150deg);">5</div><div style=3D"width: 100%=
+; position: absolute; text-align: center; bottom: 0px; transform: rotate(-1=
+50deg);">11</div></li><li style=3D"padding: 0px; margin: 0px; position: abs=
+olute; text-align: center; width: 40px; height: 200px; font-size: 20px; tra=
+nsform: rotate(180deg);"><div style=3D"width: 100%; position: absolute; tex=
+t-align: center; transform: rotate(-180deg);">6</div><div style=3D"width: 1=
+00%; position: absolute; text-align: center; bottom: 0px; transform: rotate=
+(-180deg);">12</div></li></ul><div style=3D"width: 4px; height: 4px; positi=
+on: absolute; border-width: 52px 0px; border-style: solid; border-color: rg=
+b(255, 102, 0) transparent transparent; border-image: initial; left: 98px; =
+top: 48px; transform: rotate(274deg);"></div><div style=3D"width: 2px; heig=
+ht: 2px; position: absolute; border-width: 81px 0px; border-style: solid; b=
+order-color: rgb(0, 153, 255) transparent transparent; border-image: initia=
+l; left: 99px; top: 19px; transform: rotate(48deg);"></div><div style=3D"wi=
+dth: 1px; height: 1px; position: absolute; border-width: 90px 0px; border-s=
+tyle: solid; border-color: rgb(0, 0, 0) transparent transparent; border-ima=
+ge: initial; left: 99px; top: 10px; transform: rotate(348deg);"></div><div =
+style=3D"width: 10px; height: 10px; position: absolute; background-color: r=
+gb(0, 0, 0); left: 95px; top: 95px; border-radius: 50%;"></div></div><div s=
+tyle=3D"border-radius: 50%; background-color: rgb(187, 255, 0); border: 1px=
+ solid rgb(204, 204, 204); width: 300px; height: 300px; position: relative;=
+"><h4 style=3D"width: 100%; text-align: center; font-weight: normal; font-s=
+ize: 20px; margin-top: 180px; color: rgb(0, 0, 0);">2023-11-13<br> 9:8:58</=
+h4><ul style=3D"height: 100%; padding: 0px; margin: 0px; list-style: none; =
+position: absolute; width: 40px; top: 0px; left: 130px; color: rgb(0, 0, 0)=
+;"><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: =
+center; width: 40px; height: 300px; font-size: 30px; transform: rotate(30de=
+g);"><div style=3D"width: 100%; position: absolute; text-align: center; tra=
+nsform: rotate(-30deg);">1</div><div style=3D"width: 100%; position: absolu=
+te; text-align: center; bottom: 0px; transform: rotate(-30deg);">7</div></l=
+i><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: c=
+enter; width: 40px; height: 300px; font-size: 30px; transform: rotate(60deg=
+);"><div style=3D"width: 100%; position: absolute; text-align: center; tran=
+sform: rotate(-60deg);">2</div><div style=3D"width: 100%; position: absolut=
+e; text-align: center; bottom: 0px; transform: rotate(-60deg);">8</div></li=
+><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: ce=
+nter; width: 40px; height: 300px; font-size: 30px; transform: rotate(90deg)=
+;"><div style=3D"width: 100%; position: absolute; text-align: center; trans=
+form: rotate(-90deg);">3</div><div style=3D"width: 100%; position: absolute=
+; text-align: center; bottom: 0px; transform: rotate(-90deg);">9</div></li>=
+<li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: cen=
+ter; width: 40px; height: 300px; font-size: 30px; transform: rotate(120deg)=
+;"><div style=3D"width: 100%; position: absolute; text-align: center; trans=
+form: rotate(-120deg);">4</div><div style=3D"width: 100%; position: absolut=
+e; text-align: center; bottom: 0px; transform: rotate(-120deg);">10</div></=
+li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: =
+center; width: 40px; height: 300px; font-size: 30px; transform: rotate(150d=
+eg);"><div style=3D"width: 100%; position: absolute; text-align: center; tr=
+ansform: rotate(-150deg);">5</div><div style=3D"width: 100%; position: abso=
+lute; text-align: center; bottom: 0px; transform: rotate(-150deg);">11</div=
+></li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-alig=
+n: center; width: 40px; height: 300px; font-size: 30px; transform: rotate(1=
+80deg);"><div style=3D"width: 100%; position: absolute; text-align: center;=
+ transform: rotate(-180deg);">6</div><div style=3D"width: 100%; position: a=
+bsolute; text-align: center; bottom: 0px; transform: rotate(-180deg);">12</=
+div></li></ul><div style=3D"width: 6px; height: 6px; position: absolute; bo=
+rder-width: 78px 0px; border-style: solid; border-color: rgb(255, 102, 0) t=
+ransparent transparent; border-image: initial; left: 147px; top: 72px; tran=
+sform: rotate(274deg);"></div><div style=3D"width: 3px; height: 3px; positi=
+on: absolute; border-width: 121.5px 0px; border-style: solid; border-color:=
+ rgb(0, 153, 255) transparent transparent; border-image: initial; left: 148=
+.5px; top: 28.5px; transform: rotate(48deg);"></div><div style=3D"width: 1p=
+x; height: 1px; position: absolute; border-width: 135px 0px; border-style: =
+solid; border-color: rgb(0, 0, 0) transparent transparent; border-image: in=
+itial; left: 149px; top: 15px; transform: rotate(348deg);"></div><div style=
+=3D"width: 15px; height: 15px; position: absolute; background-color: rgb(0,=
+ 0, 0); left: 142.5px; top: 142.5px; border-radius: 50%;"></div></div><div =
+style=3D"border-radius: 50%; background-color: rgb(51, 51, 51); border: 1px=
+ solid rgb(204, 204, 204); width: 200px; height: 200px; position: relative;=
+"><h4 style=3D"width: 100%; text-align: center; font-weight: normal; font-s=
+ize: 13.3333px; margin-top: 120px; color: rgb(238, 238, 238);">2023-11-13<b=
+r> 9:8:58</h4><ul style=3D"height: 100%; padding: 0px; margin: 0px; list-st=
+yle: none; position: absolute; width: 40px; top: 0px; left: 80px; color: rg=
+b(238, 238, 238);"><li style=3D"padding: 0px; margin: 0px; position: absolu=
+te; text-align: center; width: 40px; height: 200px; font-size: 20px; transf=
+orm: rotate(30deg);"><div style=3D"width: 100%; position: absolute; text-al=
+ign: center; transform: rotate(-30deg);">1</div><div style=3D"width: 100%; =
+position: absolute; text-align: center; bottom: 0px; transform: rotate(-30d=
+eg);">7</div></li><li style=3D"padding: 0px; margin: 0px; position: absolut=
+e; text-align: center; width: 40px; height: 200px; font-size: 20px; transfo=
+rm: rotate(60deg);"><div style=3D"width: 100%; position: absolute; text-ali=
+gn: center; transform: rotate(-60deg);">2</div><div style=3D"width: 100%; p=
+osition: absolute; text-align: center; bottom: 0px; transform: rotate(-60de=
+g);">8</div></li><li style=3D"padding: 0px; margin: 0px; position: absolute=
+; text-align: center; width: 40px; height: 200px; font-size: 20px; transfor=
+m: rotate(90deg);"><div style=3D"width: 100%; position: absolute; text-alig=
+n: center; transform: rotate(-90deg);">3</div><div style=3D"width: 100%; po=
+sition: absolute; text-align: center; bottom: 0px; transform: rotate(-90deg=
+);">9</div></li><li style=3D"padding: 0px; margin: 0px; position: absolute;=
+ text-align: center; width: 40px; height: 200px; font-size: 20px; transform=
+: rotate(120deg);"><div style=3D"width: 100%; position: absolute; text-alig=
+n: center; transform: rotate(-120deg);">4</div><div style=3D"width: 100%; p=
+osition: absolute; text-align: center; bottom: 0px; transform: rotate(-120d=
+eg);">10</div></li><li style=3D"padding: 0px; margin: 0px; position: absolu=
+te; text-align: center; width: 40px; height: 200px; font-size: 20px; transf=
+orm: rotate(150deg);"><div style=3D"width: 100%; position: absolute; text-a=
+lign: center; transform: rotate(-150deg);">5</div><div style=3D"width: 100%=
+; position: absolute; text-align: center; bottom: 0px; transform: rotate(-1=
+50deg);">11</div></li><li style=3D"padding: 0px; margin: 0px; position: abs=
+olute; text-align: center; width: 40px; height: 200px; font-size: 20px; tra=
+nsform: rotate(180deg);"><div style=3D"width: 100%; position: absolute; tex=
+t-align: center; transform: rotate(-180deg);">6</div><div style=3D"width: 1=
+00%; position: absolute; text-align: center; bottom: 0px; transform: rotate=
+(-180deg);">12</div></li></ul><div style=3D"width: 4px; height: 4px; positi=
+on: absolute; border-width: 52px 0px; border-style: solid; border-color: rg=
+b(255, 102, 0) transparent transparent; border-image: initial; left: 98px; =
+top: 48px; transform: rotate(274deg);"></div><div style=3D"width: 2px; heig=
+ht: 2px; position: absolute; border-width: 81px 0px; border-style: solid; b=
+order-color: rgb(0, 153, 255) transparent transparent; border-image: initia=
+l; left: 99px; top: 19px; transform: rotate(48deg);"></div><div style=3D"wi=
+dth: 1px; height: 1px; position: absolute; border-width: 90px 0px; border-s=
+tyle: solid; border-color: rgb(238, 238, 238) transparent transparent; bord=
+er-image: initial; left: 99px; top: 10px; transform: rotate(348deg);"></div=
+><div style=3D"width: 10px; height: 10px; position: absolute; background-co=
+lor: rgb(238, 238, 238); left: 95px; top: 95px; border-radius: 50%;"></div>=
+</div><div style=3D"border-radius: 50%; background-color: rgb(238, 238, 238=
+); border: 1px solid red; width: 100px; height: 100px; position: relative;"=
+><h4 style=3D"width: 100%; text-align: center; font-weight: normal; font-si=
+ze: 6.66667px; margin-top: 60px; color: rgb(0, 0, 0);">2023-11-13<br> 9:8:5=
+8</h4><ul style=3D"height: 100%; padding: 0px; margin: 0px; list-style: non=
+e; position: absolute; width: 40px; top: 0px; left: 30px; color: rgb(0, 0, =
+0);"><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align=
+: center; width: 40px; height: 100px; font-size: 10px; transform: rotate(30=
+deg);"><div style=3D"width: 100%; position: absolute; text-align: center; t=
+ransform: rotate(-30deg);">1</div><div style=3D"width: 100%; position: abso=
+lute; text-align: center; bottom: 0px; transform: rotate(-30deg);">7</div><=
+/li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align:=
+ center; width: 40px; height: 100px; font-size: 10px; transform: rotate(60d=
+eg);"><div style=3D"width: 100%; position: absolute; text-align: center; tr=
+ansform: rotate(-60deg);">2</div><div style=3D"width: 100%; position: absol=
+ute; text-align: center; bottom: 0px; transform: rotate(-60deg);">8</div></=
+li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: =
+center; width: 40px; height: 100px; font-size: 10px; transform: rotate(90de=
+g);"><div style=3D"width: 100%; position: absolute; text-align: center; tra=
+nsform: rotate(-90deg);">3</div><div style=3D"width: 100%; position: absolu=
+te; text-align: center; bottom: 0px; transform: rotate(-90deg);">9</div></l=
+i><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align: c=
+enter; width: 40px; height: 100px; font-size: 10px; transform: rotate(120de=
+g);"><div style=3D"width: 100%; position: absolute; text-align: center; tra=
+nsform: rotate(-120deg);">4</div><div style=3D"width: 100%; position: absol=
+ute; text-align: center; bottom: 0px; transform: rotate(-120deg);">10</div>=
+</li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-align=
+: center; width: 40px; height: 100px; font-size: 10px; transform: rotate(15=
+0deg);"><div style=3D"width: 100%; position: absolute; text-align: center; =
+transform: rotate(-150deg);">5</div><div style=3D"width: 100%; position: ab=
+solute; text-align: center; bottom: 0px; transform: rotate(-150deg);">11</d=
+iv></li><li style=3D"padding: 0px; margin: 0px; position: absolute; text-al=
+ign: center; width: 40px; height: 100px; font-size: 10px; transform: rotate=
+(180deg);"><div style=3D"width: 100%; position: absolute; text-align: cente=
+r; transform: rotate(-180deg);">6</div><div style=3D"width: 100%; position:=
+ absolute; text-align: center; bottom: 0px; transform: rotate(-180deg);">12=
+</div></li></ul><div style=3D"width: 2px; height: 2px; position: absolute; =
+border-width: 26px 0px; border-style: solid; border-color: rgb(255, 102, 0)=
+ transparent transparent; border-image: initial; left: 49px; top: 24px; tra=
+nsform: rotate(274deg);"></div><div style=3D"width: 1px; height: 1px; posit=
+ion: absolute; border-width: 40.5px 0px; border-style: solid; border-color:=
+ rgb(0, 153, 255) transparent transparent; border-image: initial; left: 49.=
+5px; top: 9.5px; transform: rotate(48deg);"></div><div style=3D"width: 1px;=
+ height: 1px; position: absolute; border-width: 45px 0px; border-style: sol=
+id; border-color: rgb(0, 0, 0) transparent transparent; border-image: initi=
+al; left: 49px; top: 5px; transform: rotate(348deg);"></div><div style=3D"w=
+idth: 5px; height: 5px; position: absolute; background-color: rgb(0, 0, 0);=
+ left: 47.5px; top: 47.5px; border-radius: 50%;"></div></div></div>
+   =20
+   =20
+   =20
+
+
+</body></html>
+------MultipartBoundary--HJuUbAXMi0xSQnlmyZgwhgkfGAxUSfO8BiyGYIt2bw----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bfa31397-f86c-474a-8fd2-24643451cd49@mhtml.blink
+
+@charset "utf-8";
+
+body { padding: 2em; background-color: rgb(247, 247, 247); }
+------MultipartBoundary--HJuUbAXMi0xSQnlmyZgwhgkfGAxUSfO8BiyGYIt2bw----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-18e4de36-6ac7-4759-80e9-b0ab7679b311@mhtml.blink
+
+@charset "utf-8";
+
+#clock > div { float: left; }
+------MultipartBoundary--HJuUbAXMi0xSQnlmyZgwhgkfGAxUSfO8BiyGYIt2bw------
