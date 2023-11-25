@@ -1,0 +1,2153 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://codehimblog.github.io/jquery-codehim-analog-clock/
+Subject: jQuery and CSS3 Realistic Analog Clock Widget by Codehim
+Date: Mon, 13 Nov 2023 08:47:40 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----"
+
+
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----
+Content-Type: text/html
+Content-ID: <frame-D795F0EA997A8CBD382DFF154F6F9405@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://codehimblog.github.io/jquery-codehim-analog-clock/
+
+<!DOCTYPE html><html lang=3D"en-US"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+
+<meta name=3D"description" content=3D"Free jQuery and CSS3 based analog clo=
+ck widget. Codehim Clock Plugin helps you to create an awesome real looking=
+ analog clock in your website app project with date and days.">
+<title> jQuery and CSS3 Realistic Analog Clock Widget by Codehim</title>
+
+   <!--jQuery-->
+
+
+   <!--Codehim Clock JS-->
+
+
+   <!--Codehim Clock CSS-->
+<link rel=3D"stylesheet" href=3D"https://codehimblog.github.io/jquery-codeh=
+im-analog-clock/css/codehim-clock.css">
+
+
+
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://cdn.jsdelivr.net=
+/gh/google/code-prettify@master/loader/prettify.css"></head>
+<body>
+
+<!--Introduction and Demo Only -->
+<header class=3D"intro">
+      <h1> jQuery and CSS3 Realistic Analog Clock Widget by Codehim </h1>
+      <p>
+       Codehim Clock is a well designed, adjustable and fully realistic jQu=
+ery and CSS3 based analog clock widget.=20
+         <br>
+         <br>
+<b> Written in:</b><i> HTML5, CSS3 and JavaScript</i><br>
+          <b> Framework: </b> <i>  jQuery 3.3.1</i>
+      </p>
+<div class=3D"action">
+<a class=3D"btn github" href=3D"https://github.com/CodeHimBlog/jquery-codeh=
+im-analog-clock"> Fork on GiHub </a>
+<a class=3D"btn down" href=3D"https://github.com/CodeHimBlog/jquery-codehim=
+-analog-clock/archive/master.zip">Download </a>
+<div style=3D"margin-left: auto; margin-right: auto">
+
+<!-- textAd -->
+<ins class=3D"adsbygoogle" style=3D"display:inline-block;width:320px;height=
+:100px" data-ad-client=3D"ca-pub-7089100907045419" data-ad-slot=3D"81154281=
+24"></ins>
+
+    </div>
+</div>
+</header>
+<main>
+<article>
+
+<!--Clock Demo-->
+<h2> Codehim Clock Example </h2>
+
+<div class=3D"clock-place"> <div class=3D"original codehim-clock-dale"><spa=
+n class=3D"number p1">1</span><span class=3D"number p2">2</span><span class=
+=3D"number p3">3</span><span class=3D"number p4">4</span><span class=3D"num=
+ber p5">5</span><span class=3D"number p6">6</span><span class=3D"number p7"=
+>7</span><span class=3D"number p8">8</span><span class=3D"number p9">9</spa=
+n><span class=3D"number p10">10</span><span class=3D"number p11">11</span><=
+span class=3D"number p12">12</span><div class=3D"minutes-hand" style=3D"tra=
+nsform: rotate(250deg); transform-origin: center bottom;"></div><div class=
+=3D"hours-hand" style=3D"transform: rotate(259.138deg); transform-origin: c=
+enter bottom;"></div><div class=3D"seconds-hand" style=3D"transform: rotate=
+(42deg); transform-origin: center bottom; transition: all 0s ease 0s;"></di=
+v><div class=3D"clock-center"></div><div class=3D"clock-logo">Codehim<span>=
+www.codehim.com</span></div><span class=3D"point pt0" style=3D"transform: r=
+otate(6deg);"></span><span class=3D"point pt1" style=3D"transform: rotate(1=
+2deg);"></span><span class=3D"point pt2" style=3D"transform: rotate(18deg);=
+"></span><span class=3D"point pt3" style=3D"transform: rotate(24deg);"></sp=
+an><span class=3D"point pt4" style=3D"transform: rotate(30deg);"></span><sp=
+an class=3D"point pt5" style=3D"transform: rotate(36deg);"></span><span cla=
+ss=3D"point pt6" style=3D"transform: rotate(42deg);"></span><span class=3D"=
+point pt7" style=3D"transform: rotate(48deg);"></span><span class=3D"point =
+pt8" style=3D"transform: rotate(54deg);"></span><span class=3D"point pt9" s=
+tyle=3D"transform: rotate(60deg);"></span><span class=3D"point pt10" style=
+=3D"transform: rotate(66deg);"></span><span class=3D"point pt11" style=3D"t=
+ransform: rotate(72deg);"></span><span class=3D"point pt12" style=3D"transf=
+orm: rotate(78deg);"></span><span class=3D"point pt13" style=3D"transform: =
+rotate(84deg);"></span><span class=3D"point pt14" style=3D"transform: rotat=
+e(90deg);"></span><span class=3D"point pt15" style=3D"transform: rotate(96d=
+eg);"></span><span class=3D"point pt16" style=3D"transform: rotate(102deg);=
+"></span><span class=3D"point pt17" style=3D"transform: rotate(108deg);"></=
+span><span class=3D"point pt18" style=3D"transform: rotate(114deg);"></span=
+><span class=3D"point pt19" style=3D"transform: rotate(120deg);"></span><sp=
+an class=3D"point pt20" style=3D"transform: rotate(126deg);"></span><span c=
+lass=3D"point pt21" style=3D"transform: rotate(132deg);"></span><span class=
+=3D"point pt22" style=3D"transform: rotate(138deg);"></span><span class=3D"=
+point pt23" style=3D"transform: rotate(144deg);"></span><span class=3D"poin=
+t pt24" style=3D"transform: rotate(150deg);"></span><span class=3D"point pt=
+25" style=3D"transform: rotate(156deg);"></span><span class=3D"point pt26" =
+style=3D"transform: rotate(162deg);"></span><span class=3D"point pt27" styl=
+e=3D"transform: rotate(168deg);"></span><span class=3D"point pt28" style=3D=
+"transform: rotate(174deg);"></span><span class=3D"point pt29" style=3D"tra=
+nsform: rotate(180deg);"></span><span class=3D"point pt30" style=3D"transfo=
+rm: rotate(186deg);"></span><span class=3D"point pt31" style=3D"transform: =
+rotate(192deg);"></span><span class=3D"point pt32" style=3D"transform: rota=
+te(198deg);"></span><span class=3D"point pt33" style=3D"transform: rotate(2=
+04deg);"></span><span class=3D"point pt34" style=3D"transform: rotate(210de=
+g);"></span><span class=3D"point pt35" style=3D"transform: rotate(216deg);"=
+></span><span class=3D"point pt36" style=3D"transform: rotate(222deg);"></s=
+pan><span class=3D"point pt37" style=3D"transform: rotate(228deg);"></span>=
+<span class=3D"point pt38" style=3D"transform: rotate(234deg);"></span><spa=
+n class=3D"point pt39" style=3D"transform: rotate(240deg);"></span><span cl=
+ass=3D"point pt40" style=3D"transform: rotate(246deg);"></span><span class=
+=3D"point pt41" style=3D"transform: rotate(252deg);"></span><span class=3D"=
+point pt42" style=3D"transform: rotate(258deg);"></span><span class=3D"poin=
+t pt43" style=3D"transform: rotate(264deg);"></span><span class=3D"point pt=
+44" style=3D"transform: rotate(270deg);"></span><span class=3D"point pt45" =
+style=3D"transform: rotate(276deg);"></span><span class=3D"point pt46" styl=
+e=3D"transform: rotate(282deg);"></span><span class=3D"point pt47" style=3D=
+"transform: rotate(288deg);"></span><span class=3D"point pt48" style=3D"tra=
+nsform: rotate(294deg);"></span><span class=3D"point pt49" style=3D"transfo=
+rm: rotate(300deg);"></span><span class=3D"point pt50" style=3D"transform: =
+rotate(306deg);"></span><span class=3D"point pt51" style=3D"transform: rota=
+te(312deg);"></span><span class=3D"point pt52" style=3D"transform: rotate(3=
+18deg);"></span><span class=3D"point pt53" style=3D"transform: rotate(324de=
+g);"></span><span class=3D"point pt54" style=3D"transform: rotate(330deg);"=
+></span><span class=3D"point pt55" style=3D"transform: rotate(336deg);"></s=
+pan><span class=3D"point pt56" style=3D"transform: rotate(342deg);"></span>=
+<span class=3D"point pt57" style=3D"transform: rotate(348deg);"></span><spa=
+n class=3D"point pt58" style=3D"transform: rotate(354deg);"></span><span cl=
+ass=3D"point pt59" style=3D"transform: rotate(360deg);"></span><div class=
+=3D"date-box"><span class=3D"day">Mon</span><span class=3D"date">13</span><=
+/div><div class=3D"dale-inner"></div><div class=3D"logo-outer"></div><div c=
+lass=3D"logo-outer1"></div></div></div>
+ =20
+<h2> Main Features </h2>
+   <ul>
+      <li>Fully Responsive, Adjustable and Customizable.</li>
+      <li>Clean and Attractive Design. </li>
+      <li>Available in 3 Sizes, X small, X large and Original Size 250 by 2=
+50.</li>
+      <li> CSS3 transformation based clock's hands motion. </li>
+   <li> 100% Exact and Accurate Time (according to the server time). </li>
+  <li> Stylish Date and day badge.</li>
+   <li> Automatically set time, create UI elements and other necessary thin=
+gs in HTML document. </li>
+
+<li> Chrome, Safari, Firefox, Opera, IE7+, IOS, Android and windows phone s=
+upported. </li>
+      <li> User Friendly and Easy to Implement. </li>
+   </ul>
+=20
+
+<h2>How to Use</h2>
+
+<p>1. Load  "Codehim Clock jQuery Plugin" and CSS file into your website/ap=
+p. </p>
+<pre class=3D"prettyprint lang-html prettyprinted" style=3D""><span class=
+=3D"com">&lt;!--Codehim Clock JS--&gt;</span><span class=3D"pln">
+</span><span class=3D"tag">&lt;script</span><span class=3D"pln"> </span><sp=
+an class=3D"atn">src</span><span class=3D"pun">=3D</span><span class=3D"atv=
+">"js/jquery.codehim.clock.js"</span><span class=3D"tag">&gt;&lt;/script&gt=
+;</span><span class=3D"pln">
+
+   </span><span class=3D"com">&lt;!--Codehim Clock CSS--&gt;</span><span cl=
+ass=3D"pln">
+</span><span class=3D"tag">&lt;link</span><span class=3D"pln"> </span><span=
+ class=3D"atn">rel</span><span class=3D"pun">=3D</span><span class=3D"atv">=
+"stylesheet"</span><span class=3D"pln"> </span><span class=3D"atn">href</sp=
+an><span class=3D"pun">=3D</span><span class=3D"atv">"css/codehim-clock.css=
+"</span><span class=3D"pln"> </span><span class=3D"tag">/&gt;</span></pre>
+
+<p>
+2. After this, you have to do nothing tough to get it working. Just create =
+a container in which you want to adjust this analog clock widget. You can u=
+se it anywhere (i.e on sidebar, bottom or something else) in your website/a=
+pp.=20
+</p>
+
+<p>For example, you have create the following div element with class name <=
+code> clock-place </code>.</p>
+
+<pre class=3D"prettyprint lang-html prettyprinted" style=3D""><span class=
+=3D"tag">&lt;div</span><span class=3D"pln"> </span><span class=3D"atn">clas=
+s</span><span class=3D"pun">=3D</span><span class=3D"atv">"clock-place"</sp=
+an><span class=3D"tag">&gt;</span><span class=3D"pln"> </span><span class=
+=3D"tag">&lt;/div&gt;</span><span class=3D"pln">
+
+</span></pre>
+
+<p>  Now, call the <codd> CodehimClock() with this selector in DOM ready fu=
+nction. </codd></p>
+
+<pre class=3D"prettyprint lang-js prettyprinted" style=3D""><span class=3D"=
+pln">$</span><span class=3D"pun">(</span><span class=3D"pln">document</span=
+><span class=3D"pun">).</span><span class=3D"pln">ready</span><span class=
+=3D"pun">(</span><span class=3D"kwd">function</span><span class=3D"pun">(){=
+</span><span class=3D"pln">
+
+  $</span><span class=3D"pun">(</span><span class=3D"str">".clock-place"</s=
+pan><span class=3D"pun">).</span><span class=3D"typ">CodehimClock</span><sp=
+an class=3D"pun">();</span><span class=3D"pln">
+
+</span><span class=3D"pun">});</span></pre>
+<div style=3D"margin: 10px; margin-top: -15px;>
+<script async src=3D" pagead2.googlesyndication.com=3D"" pagead=3D"" js=3D"=
+" adsbygoogle.js"=3D"">
+<ins class=3D"adsbygoogle" style=3D"display:block; text-align:center;" data=
+-ad-layout=3D"in-article" data-ad-format=3D"fluid" data-ad-client=3D"ca-pub=
+-7089100907045419" data-ad-slot=3D"7782420780"></ins>
+
+</div>
+
+<p><b> Note:</b> Codehim Clock will automatically generate everything (i.e =
+clock dale, clock's hands, numbers, what's time right now etc.) in HTML doc=
+ument, so you have to do nothing for creating clock interface. </p>
+
+<p>
+We provide classes for customization of each element of the clock. So, you =
+can fully customize it according to your needs.=20
+</p>
+
+
+<h2> Codehim Clock Options </h2>
+<p>
+The following are some plugin's options for customization purpose.=20
+</p>
+<p> To change the clock widget size, use the following possible class name =
+in string option:</p>
+<ul>
+<li>original </li>
+<li> xsmall</li>
+<li> xlarge </li>
+</ul>
+
+<pre class=3D"prettyprint lang-js prettyprinted" style=3D""><span class=3D"=
+pln">$</span><span class=3D"pun">(</span><span class=3D"pln">document</span=
+><span class=3D"pun">).</span><span class=3D"pln">ready</span><span class=
+=3D"pun">(</span><span class=3D"kwd">function</span><span class=3D"pun">(){=
+</span><span class=3D"pln">
+
+  $</span><span class=3D"pun">(</span><span class=3D"str">".clock-place"</s=
+pan><span class=3D"pun">).</span><span class=3D"typ">CodehimClock</span><sp=
+an class=3D"pun">({</span><span class=3D"pln">
+   clockSize</span><span class=3D"pun">:</span><span class=3D"pln"> </span>=
+<span class=3D"str">"original"</span><span class=3D"pun">,</span><span clas=
+s=3D"pln">=20
+   </span><span class=3D"pun">});</span><span class=3D"pln">
+
+</span><span class=3D"pun">});</span></pre>
+
+<p> To hide clock second's hand, update the following option.</p>
+
+<pre class=3D"prettyprint lang-js prettyprinted" style=3D""><span class=3D"=
+pln"> showSeconds</span><span class=3D"pun">:</span><span class=3D"pln"> </=
+span><span class=3D"kwd">true</span><span class=3D"pun">,</span><span class=
+=3D"pln"> </span><span class=3D"com">//false to hide seconds hand</span></p=
+re>  =20
+
+<p> Decide whether to show date and day in clock. default is true. </p>
+<pre class=3D"prettyprint lang-js prettyprinted" style=3D""><span class=3D"=
+pln"> showDate</span><span class=3D"pun">:</span><span class=3D"pln"> </spa=
+n><span class=3D"kwd">true</span><span class=3D"pun">,</span><span class=3D=
+"pln"> </span><span class=3D"com">//false to hide date and day</span></pre>=
+  =20
+<br>
+<article>
+</article></article></main>
+
+<!--DEMO ONLY FILES-->
+  <link href=3D"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/f=
+ont-awesome.min.css" rel=3D"stylesheet">
+<link rel=3D"stylesheet" href=3D"https://codehimblog.github.io/jquery-codeh=
+im-analog-clock/docs/demo-only.css">
+=20
+
+<footer class=3D"credit">
+Coded with <span title=3D"Coffee"></span> by Asif Mughal =C2=A9 2018 - <a h=
+ref=3D"https://www.codehim.com/" rel=3D"dofollow" title=3D"Awesome Web Proj=
+ects and Tutorials" target=3D"_blank"> Codehim.com </a>
+      </footer>
+
+
+</body></html>
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://codehimblog.github.io/jquery-codehim-analog-clock/css/codehim-clock.css
+
+@charset "utf-8";
+
+.codehim-clock-dale { width: 250px; height: 250px; background: linear-gradi=
+ent(to right, rgb(221, 221, 221), rgb(255, 255, 255)); border-radius: 50%; =
+margin-left: auto; margin-right: auto; position: relative; border: 10px sol=
+id rgb(85, 85, 85); box-sizing: content-box; box-shadow: rgba(0, 0, 0, 0.4)=
+ -2px 1px 8px; }
+
+.codehim-clock-dale.original { transform: scale(1); }
+
+.codehim-clock-dale.xlarge { transform: scale(1.5); }
+
+.codehim-clock-dale.xsmall { transform: scale(0.5); }
+
+.number { display: inline-block; width: 30px; height: 30px; line-height: 30=
+px; text-align: center; color: rgb(51, 51, 51); border-radius: 50%; font-si=
+ze: 13px; position: absolute; }
+
+.p3, .p6, .p9, .p12 { background: rgb(85, 85, 85); color: rgb(255, 255, 255=
+); }
+
+.p1 { right: 72px; margin-right: -15px; top: 26px; }
+
+.p2 { right: 38px; margin-right: -15px; top: 63px; }
+
+.p3 { top: 125px; margin-top: -15px; right: 10px; }
+
+.p4 { right: 38px; margin-right: -15px; bottom: 63px; }
+
+.p5 { right: 72px; margin-right: -15px; bottom: 26px; }
+
+.p6 { left: 125px; margin-left: -15px; bottom: 10px; }
+
+.p7 { left: 72px; margin-left: -15px; bottom: 26px; }
+
+.p8 { left: 38px; margin-left: -15px; bottom: 63px; }
+
+.p9 { top: 125px; margin-top: -15px; left: 10px; }
+
+.p10 { left: 38px; margin-left: -15px; top: 63px; }
+
+.p11 { left: 72px; margin-left: -15px; top: 26px; }
+
+.p12 { left: 125px; margin-left: -15px; top: 10px; }
+
+.clock-center { width: 20px; height: 20px; margin-top: -10px; margin-left: =
+-10px; border-radius: 50%; background: linear-gradient(to right, rgb(24, 90=
+, 157), rgb(67, 206, 162)); position: absolute; top: 125px; left: 125px; z-=
+index: 999; border: 1px solid rgb(22, 160, 133); box-sizing: border-box; }
+
+.seconds-hand, .minutes-hand, .hours-hand { position: absolute; box-shadow:=
+ rgba(0, 0, 0, 0.4) 1px 1px 2px; border-radius: 3px; }
+
+.seconds-hand { height: 100px; width: 2px; background: red; left: 125px; ma=
+rgin-left: -1px; top: 25px; z-index: 110; }
+
+.minutes-hand { height: 80px; width: 5px; background: rgb(52, 135, 129); le=
+ft: 125px; margin-left: -2.5px; top: 45px; z-index: 100; }
+
+.hours-hand { height: 70px; width: 8px; background: rgb(61, 60, 58); left: =
+125px; margin-left: -4px; top: 55px; z-index: 90; border-left: 1px solid rg=
+ba(255, 255, 255, 0.1); box-sizing: border-box; }
+
+.clock-logo { position: absolute; left: 125px; top: 125px; width: 80px; bor=
+der-radius: 50%; height: 80px; padding: 10px; margin-left: -40px; margin-to=
+p: -40px; background: rgb(204, 204, 204); color: rgb(22, 160, 133); font-si=
+ze: 12px; text-align: center; box-sizing: border-box; z-index: 0; }
+
+.clock-logo span { display: block; font-size: 7px; color: rgb(51, 51, 51); =
+margin-top: 26px; }
+
+.point { width: 1px; height: 6px; background: rgb(153, 153, 153); display: =
+inline-block; position: absolute; z-index: 100; box-sizing: border-box; }
+
+.pt4, .pt9, .pt19, .pt24, .pt34, .pt39, .pt49, .pt54 { width: 3px; height: =
+10px; }
+
+.pt0 { top: 1px; right: 108px; }
+
+.pt1 { top: 3px; right: 96px; }
+
+.pt2 { top: 6.5px; right: 84px; }
+
+.pt3 { top: 12px; right: 72px; }
+
+.pt4 { top: 18px; right: 60px; }
+
+.pt5 { top: 25px; right: 50px; }
+
+.pt6 { top: 32px; right: 42px; }
+
+.pt7 { top: 40px; right: 34px; }
+
+.pt8 { top: 48px; right: 27px; }
+
+.pt9 { top: 60px; right: 19.5px; }
+
+.pt10 { top: 72px; right: 13.5px; }
+
+.pt11 { top: 84px; right: 8px; }
+
+.pt12 { top: 95px; right: 5px; }
+
+.pt13 { top: 110px; right: 3px; }
+
+.pt14 { top: 123px; right: 3px; }
+
+.pt15 { top: 134px; right: 4px; }
+
+.pt16 { top: 145px; right: 5px; }
+
+.pt17 { top: 156px; right: 8px; }
+
+.pt18 { top: 169px; right: 13px; }
+
+.pt19 { top: 180px; right: 20px; }
+
+.pt20 { bottom: 49px; right: 26px; }
+
+.pt21 { bottom: 39px; right: 35px; }
+
+.pt22 { bottom: 31px; right: 43px; }
+
+.pt23 { bottom: 24px; right: 51px; }
+
+.pt24 { bottom: 18px; right: 61px; }
+
+.pt25 { bottom: 12px; right: 72px; }
+
+.pt26 { bottom: 6.5px; right: 84px; }
+
+.pt27 { bottom: 3px; right: 96px; }
+
+.pt28 { bottom: 1px; right: 108px; }
+
+.pt29 { bottom: 0px; right: 125px; }
+
+.pt30 { bottom: 1px; left: 108px; }
+
+.pt31 { bottom: 3px; left: 96px; }
+
+.pt32 { bottom: 6.5px; left: 84px; }
+
+.pt33 { bottom: 12px; left: 72px; }
+
+.pt34 { bottom: 18px; left: 61px; }
+
+.pt35 { bottom: 24px; left: 51px; }
+
+.pt36 { bottom: 31px; left: 43px; }
+
+.pt37 { bottom: 39px; left: 35px; }
+
+.pt38 { bottom: 49px; left: 26px; }
+
+.pt39 { top: 180px; left: 20px; }
+
+.pt40 { top: 169px; left: 13px; }
+
+.pt41 { top: 156px; left: 8px; }
+
+.pt42 { top: 145px; left: 5px; }
+
+.pt43 { top: 134px; left: 4px; }
+
+.pt44 { top: 123px; left: 3px; }
+
+.pt45 { top: 110px; left: 3px; }
+
+.pt46 { top: 95px; left: 5px; }
+
+.pt47 { top: 84px; left: 8px; }
+
+.pt48 { top: 72px; left: 13.5px; }
+
+.pt49 { top: 60px; left: 19.5px; }
+
+.pt50 { top: 48px; left: 27px; }
+
+.pt51 { top: 40px; left: 34px; }
+
+.pt52 { top: 32px; left: 42px; }
+
+.pt53 { top: 25px; left: 50px; }
+
+.pt54 { top: 18px; left: 60px; }
+
+.pt55 { top: 12px; left: 72px; }
+
+.pt56 { top: 6.5px; left: 84px; }
+
+.pt57 { top: 3px; left: 96px; }
+
+.pt58 { top: 1px; left: 108px; }
+
+.pt59 { top: 0px; left: 125px; }
+
+.dale-inner, .glass-border { border-radius: 50%; background: transparent; p=
+osition: absolute; box-sizing: border-box; }
+
+.dale-inner { border: 4px solid rgba(0, 0, 0, 0.13); width: 250px; height: =
+250px; box-shadow: rgb(255, 255, 255) -4px 14px 25px inset; }
+
+.date-box { background: rgb(102, 102, 102); color: rgb(255, 255, 255); disp=
+lay: inline-block; position: absolute; width: 40px; height: 16px; line-heig=
+ht: 16px; text-align: center; border-radius: 1px; border: 1px solid rgb(68,=
+ 68, 68); box-sizing: border-box; font-size: 9px; top: 125px; margin-top: -=
+8px; right: 43px; z-index: 30; }
+
+.date-box .day { background: rgb(238, 68, 17); padding: 3px 1px 1px; }
+
+.date-box .date { line-height: 16px; padding-left: 2px; }
+
+.logo-outer1, .logo-outer { width: 80px; height: 80px; border: 3px solid tr=
+ansparent; border-radius: 50%; position: absolute; top: 125px; margin-top: =
+-40px; right: 125px; margin-right: -40px; box-sizing: border-box; }
+
+.logo-outer { animation: 4s linear 0s infinite normal none running spinnerC=
+lockWise; border-left: 3px solid rgb(123, 204, 181); }
+
+.logo-outer1 { border-left: 3px solid rgb(67, 191, 199); animation: 4s line=
+ar 0s infinite normal none running spinnerAntiClockWise; }
+
+@keyframes spinnerClockWise {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes spinnerAntiClockWise {=20
+  0% { transform: rotate(360deg); }
+  100% { transform: rotate(0deg); }
+}
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/prettify.css
+
+@charset "utf-8";
+
+.pln { color: rgb(0, 0, 0); }
+
+@media screen {
+  .str { color: rgb(0, 136, 0); }
+  .kwd { color: rgb(0, 0, 136); }
+  .com { color: rgb(136, 0, 0); }
+  .typ { color: rgb(102, 0, 102); }
+  .lit { color: rgb(0, 102, 102); }
+  .clo, .opn, .pun { color: rgb(102, 102, 0); }
+  .tag { color: rgb(0, 0, 136); }
+  .atn { color: rgb(102, 0, 102); }
+  .atv { color: rgb(0, 136, 0); }
+  .dec, .var { color: rgb(102, 0, 102); }
+  .fun { color: red; }
+}
+
+@media print, projection {
+  .kwd, .tag, .typ { font-weight: 700; }
+  .str { color: rgb(0, 102, 0); }
+  .kwd { color: rgb(0, 0, 102); }
+  .com { color: rgb(102, 0, 0); font-style: italic; }
+  .typ { color: rgb(68, 0, 68); }
+  .lit { color: rgb(0, 68, 68); }
+  .clo, .opn, .pun { color: rgb(68, 68, 0); }
+  .tag { color: rgb(0, 0, 102); }
+  .atn { color: rgb(68, 0, 68); }
+  .atv { color: rgb(0, 102, 0); }
+}
+
+pre.prettyprint { padding: 2px; border: 1px solid rgb(136, 136, 136); }
+
+ol.linenums { margin-top: 0px; margin-bottom: 0px; }
+
+li.L0, li.L1, li.L2, li.L3, li.L5, li.L6, li.L7, li.L8 { list-style-type: n=
+one; }
+
+li.L1, li.L3, li.L5, li.L7, li.L9 { background: rgb(238, 238, 238); }
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+@charset "utf-8";
+
+@font-face { font-family: FontAwesome; src: url("../fonts/fontawesome-webfo=
+nt.woff2?v=3D4.7.0") format("woff2"), url("../fonts/fontawesome-webfont.wof=
+f?v=3D4.7.0") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=3D4.7=
+.0") format("truetype"); font-weight: normal; font-style: normal; }
+
+.fa { display: inline-block; font-style: normal; font-variant: normal; font=
+-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; f=
+ont-variation-settings: normal; font-weight: normal; font-stretch: normal; =
+line-height: 1; font-family: FontAwesome; font-size: inherit; text-renderin=
+g: auto; -webkit-font-smoothing: antialiased; }
+
+.fa-lg { font-size: 1.33333em; line-height: 0.75em; vertical-align: -15%; }
+
+.fa-2x { font-size: 2em; }
+
+.fa-3x { font-size: 3em; }
+
+.fa-4x { font-size: 4em; }
+
+.fa-5x { font-size: 5em; }
+
+.fa-fw { width: 1.28571em; text-align: center; }
+
+.fa-ul { padding-left: 0px; margin-left: 2.14286em; list-style-type: none; =
+}
+
+.fa-ul > li { position: relative; }
+
+.fa-li { position: absolute; left: -2.14286em; width: 2.14286em; top: 0.142=
+857em; text-align: center; }
+
+.fa-li.fa-lg { left: -1.85714em; }
+
+.fa-border { padding: 0.2em 0.25em 0.15em; border: 0.08em solid rgb(238, 23=
+8, 238); border-radius: 0.1em; }
+
+.fa-pull-left { float: left; }
+
+.fa-pull-right { float: right; }
+
+.fa.fa-pull-left { margin-right: 0.3em; }
+
+.fa.fa-pull-right { margin-left: 0.3em; }
+
+.pull-right { float: right; }
+
+.pull-left { float: left; }
+
+.fa.pull-left { margin-right: 0.3em; }
+
+.fa.pull-right { margin-left: 0.3em; }
+
+.fa-spin { animation: 2s linear 0s infinite normal none running fa-spin; }
+
+.fa-pulse { animation: 1s steps(8) 0s infinite normal none running fa-spin;=
+ }
+
+@-webkit-keyframes fa-spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+@keyframes fa-spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+.fa-rotate-90 { transform: rotate(90deg); }
+
+.fa-rotate-180 { transform: rotate(180deg); }
+
+.fa-rotate-270 { transform: rotate(270deg); }
+
+.fa-flip-horizontal { transform: scale(-1, 1); }
+
+.fa-flip-vertical { transform: scale(1, -1); }
+
+:root .fa-rotate-90, :root .fa-rotate-180, :root .fa-rotate-270, :root .fa-=
+flip-horizontal, :root .fa-flip-vertical { filter: none; }
+
+.fa-stack { position: relative; display: inline-block; width: 2em; height: =
+2em; line-height: 2em; vertical-align: middle; }
+
+.fa-stack-1x, .fa-stack-2x { position: absolute; left: 0px; width: 100%; te=
+xt-align: center; }
+
+.fa-stack-1x { line-height: inherit; }
+
+.fa-stack-2x { font-size: 2em; }
+
+.fa-inverse { color: rgb(255, 255, 255); }
+
+.fa-glass::before { content: "=EF=80=80"; }
+
+.fa-music::before { content: "=EF=80=81"; }
+
+.fa-search::before { content: "=EF=80=82"; }
+
+.fa-envelope-o::before { content: "=EF=80=83"; }
+
+.fa-heart::before { content: "=EF=80=84"; }
+
+.fa-star::before { content: "=EF=80=85"; }
+
+.fa-star-o::before { content: "=EF=80=86"; }
+
+.fa-user::before { content: "=EF=80=87"; }
+
+.fa-film::before { content: "=EF=80=88"; }
+
+.fa-th-large::before { content: "=EF=80=89"; }
+
+.fa-th::before { content: "=EF=80=8A"; }
+
+.fa-th-list::before { content: "=EF=80=8B"; }
+
+.fa-check::before { content: "=EF=80=8C"; }
+
+.fa-remove::before, .fa-close::before, .fa-times::before { content: "=EF=80=
+=8D"; }
+
+.fa-search-plus::before { content: "=EF=80=8E"; }
+
+.fa-search-minus::before { content: "=EF=80=90"; }
+
+.fa-power-off::before { content: "=EF=80=91"; }
+
+.fa-signal::before { content: "=EF=80=92"; }
+
+.fa-gear::before, .fa-cog::before { content: "=EF=80=93"; }
+
+.fa-trash-o::before { content: "=EF=80=94"; }
+
+.fa-home::before { content: "=EF=80=95"; }
+
+.fa-file-o::before { content: "=EF=80=96"; }
+
+.fa-clock-o::before { content: "=EF=80=97"; }
+
+.fa-road::before { content: "=EF=80=98"; }
+
+.fa-download::before { content: "=EF=80=99"; }
+
+.fa-arrow-circle-o-down::before { content: "=EF=80=9A"; }
+
+.fa-arrow-circle-o-up::before { content: "=EF=80=9B"; }
+
+.fa-inbox::before { content: "=EF=80=9C"; }
+
+.fa-play-circle-o::before { content: "=EF=80=9D"; }
+
+.fa-rotate-right::before, .fa-repeat::before { content: "=EF=80=9E"; }
+
+.fa-refresh::before { content: "=EF=80=A1"; }
+
+.fa-list-alt::before { content: "=EF=80=A2"; }
+
+.fa-lock::before { content: "=EF=80=A3"; }
+
+.fa-flag::before { content: "=EF=80=A4"; }
+
+.fa-headphones::before { content: "=EF=80=A5"; }
+
+.fa-volume-off::before { content: "=EF=80=A6"; }
+
+.fa-volume-down::before { content: "=EF=80=A7"; }
+
+.fa-volume-up::before { content: "=EF=80=A8"; }
+
+.fa-qrcode::before { content: "=EF=80=A9"; }
+
+.fa-barcode::before { content: "=EF=80=AA"; }
+
+.fa-tag::before { content: "=EF=80=AB"; }
+
+.fa-tags::before { content: "=EF=80=AC"; }
+
+.fa-book::before { content: "=EF=80=AD"; }
+
+.fa-bookmark::before { content: "=EF=80=AE"; }
+
+.fa-print::before { content: "=EF=80=AF"; }
+
+.fa-camera::before { content: "=EF=80=B0"; }
+
+.fa-font::before { content: "=EF=80=B1"; }
+
+.fa-bold::before { content: "=EF=80=B2"; }
+
+.fa-italic::before { content: "=EF=80=B3"; }
+
+.fa-text-height::before { content: "=EF=80=B4"; }
+
+.fa-text-width::before { content: "=EF=80=B5"; }
+
+.fa-align-left::before { content: "=EF=80=B6"; }
+
+.fa-align-center::before { content: "=EF=80=B7"; }
+
+.fa-align-right::before { content: "=EF=80=B8"; }
+
+.fa-align-justify::before { content: "=EF=80=B9"; }
+
+.fa-list::before { content: "=EF=80=BA"; }
+
+.fa-dedent::before, .fa-outdent::before { content: "=EF=80=BB"; }
+
+.fa-indent::before { content: "=EF=80=BC"; }
+
+.fa-video-camera::before { content: "=EF=80=BD"; }
+
+.fa-photo::before, .fa-image::before, .fa-picture-o::before { content: "=EF=
+=80=BE"; }
+
+.fa-pencil::before { content: "=EF=81=80"; }
+
+.fa-map-marker::before { content: "=EF=81=81"; }
+
+.fa-adjust::before { content: "=EF=81=82"; }
+
+.fa-tint::before { content: "=EF=81=83"; }
+
+.fa-edit::before, .fa-pencil-square-o::before { content: "=EF=81=84"; }
+
+.fa-share-square-o::before { content: "=EF=81=85"; }
+
+.fa-check-square-o::before { content: "=EF=81=86"; }
+
+.fa-arrows::before { content: "=EF=81=87"; }
+
+.fa-step-backward::before { content: "=EF=81=88"; }
+
+.fa-fast-backward::before { content: "=EF=81=89"; }
+
+.fa-backward::before { content: "=EF=81=8A"; }
+
+.fa-play::before { content: "=EF=81=8B"; }
+
+.fa-pause::before { content: "=EF=81=8C"; }
+
+.fa-stop::before { content: "=EF=81=8D"; }
+
+.fa-forward::before { content: "=EF=81=8E"; }
+
+.fa-fast-forward::before { content: "=EF=81=90"; }
+
+.fa-step-forward::before { content: "=EF=81=91"; }
+
+.fa-eject::before { content: "=EF=81=92"; }
+
+.fa-chevron-left::before { content: "=EF=81=93"; }
+
+.fa-chevron-right::before { content: "=EF=81=94"; }
+
+.fa-plus-circle::before { content: "=EF=81=95"; }
+
+.fa-minus-circle::before { content: "=EF=81=96"; }
+
+.fa-times-circle::before { content: "=EF=81=97"; }
+
+.fa-check-circle::before { content: "=EF=81=98"; }
+
+.fa-question-circle::before { content: "=EF=81=99"; }
+
+.fa-info-circle::before { content: "=EF=81=9A"; }
+
+.fa-crosshairs::before { content: "=EF=81=9B"; }
+
+.fa-times-circle-o::before { content: "=EF=81=9C"; }
+
+.fa-check-circle-o::before { content: "=EF=81=9D"; }
+
+.fa-ban::before { content: "=EF=81=9E"; }
+
+.fa-arrow-left::before { content: "=EF=81=A0"; }
+
+.fa-arrow-right::before { content: "=EF=81=A1"; }
+
+.fa-arrow-up::before { content: "=EF=81=A2"; }
+
+.fa-arrow-down::before { content: "=EF=81=A3"; }
+
+.fa-mail-forward::before, .fa-share::before { content: "=EF=81=A4"; }
+
+.fa-expand::before { content: "=EF=81=A5"; }
+
+.fa-compress::before { content: "=EF=81=A6"; }
+
+.fa-plus::before { content: "=EF=81=A7"; }
+
+.fa-minus::before { content: "=EF=81=A8"; }
+
+.fa-asterisk::before { content: "=EF=81=A9"; }
+
+.fa-exclamation-circle::before { content: "=EF=81=AA"; }
+
+.fa-gift::before { content: "=EF=81=AB"; }
+
+.fa-leaf::before { content: "=EF=81=AC"; }
+
+.fa-fire::before { content: "=EF=81=AD"; }
+
+.fa-eye::before { content: "=EF=81=AE"; }
+
+.fa-eye-slash::before { content: "=EF=81=B0"; }
+
+.fa-warning::before, .fa-exclamation-triangle::before { content: "=EF=81=B1=
+"; }
+
+.fa-plane::before { content: "=EF=81=B2"; }
+
+.fa-calendar::before { content: "=EF=81=B3"; }
+
+.fa-random::before { content: "=EF=81=B4"; }
+
+.fa-comment::before { content: "=EF=81=B5"; }
+
+.fa-magnet::before { content: "=EF=81=B6"; }
+
+.fa-chevron-up::before { content: "=EF=81=B7"; }
+
+.fa-chevron-down::before { content: "=EF=81=B8"; }
+
+.fa-retweet::before { content: "=EF=81=B9"; }
+
+.fa-shopping-cart::before { content: "=EF=81=BA"; }
+
+.fa-folder::before { content: "=EF=81=BB"; }
+
+.fa-folder-open::before { content: "=EF=81=BC"; }
+
+.fa-arrows-v::before { content: "=EF=81=BD"; }
+
+.fa-arrows-h::before { content: "=EF=81=BE"; }
+
+.fa-bar-chart-o::before, .fa-bar-chart::before { content: "=EF=82=80"; }
+
+.fa-twitter-square::before { content: "=EF=82=81"; }
+
+.fa-facebook-square::before { content: "=EF=82=82"; }
+
+.fa-camera-retro::before { content: "=EF=82=83"; }
+
+.fa-key::before { content: "=EF=82=84"; }
+
+.fa-gears::before, .fa-cogs::before { content: "=EF=82=85"; }
+
+.fa-comments::before { content: "=EF=82=86"; }
+
+.fa-thumbs-o-up::before { content: "=EF=82=87"; }
+
+.fa-thumbs-o-down::before { content: "=EF=82=88"; }
+
+.fa-star-half::before { content: "=EF=82=89"; }
+
+.fa-heart-o::before { content: "=EF=82=8A"; }
+
+.fa-sign-out::before { content: "=EF=82=8B"; }
+
+.fa-linkedin-square::before { content: "=EF=82=8C"; }
+
+.fa-thumb-tack::before { content: "=EF=82=8D"; }
+
+.fa-external-link::before { content: "=EF=82=8E"; }
+
+.fa-sign-in::before { content: "=EF=82=90"; }
+
+.fa-trophy::before { content: "=EF=82=91"; }
+
+.fa-github-square::before { content: "=EF=82=92"; }
+
+.fa-upload::before { content: "=EF=82=93"; }
+
+.fa-lemon-o::before { content: "=EF=82=94"; }
+
+.fa-phone::before { content: "=EF=82=95"; }
+
+.fa-square-o::before { content: "=EF=82=96"; }
+
+.fa-bookmark-o::before { content: "=EF=82=97"; }
+
+.fa-phone-square::before { content: "=EF=82=98"; }
+
+.fa-twitter::before { content: "=EF=82=99"; }
+
+.fa-facebook-f::before, .fa-facebook::before { content: "=EF=82=9A"; }
+
+.fa-github::before { content: "=EF=82=9B"; }
+
+.fa-unlock::before { content: "=EF=82=9C"; }
+
+.fa-credit-card::before { content: "=EF=82=9D"; }
+
+.fa-feed::before, .fa-rss::before { content: "=EF=82=9E"; }
+
+.fa-hdd-o::before { content: "=EF=82=A0"; }
+
+.fa-bullhorn::before { content: "=EF=82=A1"; }
+
+.fa-bell::before { content: "=EF=83=B3"; }
+
+.fa-certificate::before { content: "=EF=82=A3"; }
+
+.fa-hand-o-right::before { content: "=EF=82=A4"; }
+
+.fa-hand-o-left::before { content: "=EF=82=A5"; }
+
+.fa-hand-o-up::before { content: "=EF=82=A6"; }
+
+.fa-hand-o-down::before { content: "=EF=82=A7"; }
+
+.fa-arrow-circle-left::before { content: "=EF=82=A8"; }
+
+.fa-arrow-circle-right::before { content: "=EF=82=A9"; }
+
+.fa-arrow-circle-up::before { content: "=EF=82=AA"; }
+
+.fa-arrow-circle-down::before { content: "=EF=82=AB"; }
+
+.fa-globe::before { content: "=EF=82=AC"; }
+
+.fa-wrench::before { content: "=EF=82=AD"; }
+
+.fa-tasks::before { content: "=EF=82=AE"; }
+
+.fa-filter::before { content: "=EF=82=B0"; }
+
+.fa-briefcase::before { content: "=EF=82=B1"; }
+
+.fa-arrows-alt::before { content: "=EF=82=B2"; }
+
+.fa-group::before, .fa-users::before { content: "=EF=83=80"; }
+
+.fa-chain::before, .fa-link::before { content: "=EF=83=81"; }
+
+.fa-cloud::before { content: "=EF=83=82"; }
+
+.fa-flask::before { content: "=EF=83=83"; }
+
+.fa-cut::before, .fa-scissors::before { content: "=EF=83=84"; }
+
+.fa-copy::before, .fa-files-o::before { content: "=EF=83=85"; }
+
+.fa-paperclip::before { content: "=EF=83=86"; }
+
+.fa-save::before, .fa-floppy-o::before { content: "=EF=83=87"; }
+
+.fa-square::before { content: "=EF=83=88"; }
+
+.fa-navicon::before, .fa-reorder::before, .fa-bars::before { content: "=EF=
+=83=89"; }
+
+.fa-list-ul::before { content: "=EF=83=8A"; }
+
+.fa-list-ol::before { content: "=EF=83=8B"; }
+
+.fa-strikethrough::before { content: "=EF=83=8C"; }
+
+.fa-underline::before { content: "=EF=83=8D"; }
+
+.fa-table::before { content: "=EF=83=8E"; }
+
+.fa-magic::before { content: "=EF=83=90"; }
+
+.fa-truck::before { content: "=EF=83=91"; }
+
+.fa-pinterest::before { content: "=EF=83=92"; }
+
+.fa-pinterest-square::before { content: "=EF=83=93"; }
+
+.fa-google-plus-square::before { content: "=EF=83=94"; }
+
+.fa-google-plus::before { content: "=EF=83=95"; }
+
+.fa-money::before { content: "=EF=83=96"; }
+
+.fa-caret-down::before { content: "=EF=83=97"; }
+
+.fa-caret-up::before { content: "=EF=83=98"; }
+
+.fa-caret-left::before { content: "=EF=83=99"; }
+
+.fa-caret-right::before { content: "=EF=83=9A"; }
+
+.fa-columns::before { content: "=EF=83=9B"; }
+
+.fa-unsorted::before, .fa-sort::before { content: "=EF=83=9C"; }
+
+.fa-sort-down::before, .fa-sort-desc::before { content: "=EF=83=9D"; }
+
+.fa-sort-up::before, .fa-sort-asc::before { content: "=EF=83=9E"; }
+
+.fa-envelope::before { content: "=EF=83=A0"; }
+
+.fa-linkedin::before { content: "=EF=83=A1"; }
+
+.fa-rotate-left::before, .fa-undo::before { content: "=EF=83=A2"; }
+
+.fa-legal::before, .fa-gavel::before { content: "=EF=83=A3"; }
+
+.fa-dashboard::before, .fa-tachometer::before { content: "=EF=83=A4"; }
+
+.fa-comment-o::before { content: "=EF=83=A5"; }
+
+.fa-comments-o::before { content: "=EF=83=A6"; }
+
+.fa-flash::before, .fa-bolt::before { content: "=EF=83=A7"; }
+
+.fa-sitemap::before { content: "=EF=83=A8"; }
+
+.fa-umbrella::before { content: "=EF=83=A9"; }
+
+.fa-paste::before, .fa-clipboard::before { content: "=EF=83=AA"; }
+
+.fa-lightbulb-o::before { content: "=EF=83=AB"; }
+
+.fa-exchange::before { content: "=EF=83=AC"; }
+
+.fa-cloud-download::before { content: "=EF=83=AD"; }
+
+.fa-cloud-upload::before { content: "=EF=83=AE"; }
+
+.fa-user-md::before { content: "=EF=83=B0"; }
+
+.fa-stethoscope::before { content: "=EF=83=B1"; }
+
+.fa-suitcase::before { content: "=EF=83=B2"; }
+
+.fa-bell-o::before { content: "=EF=82=A2"; }
+
+.fa-coffee::before { content: "=EF=83=B4"; }
+
+.fa-cutlery::before { content: "=EF=83=B5"; }
+
+.fa-file-text-o::before { content: "=EF=83=B6"; }
+
+.fa-building-o::before { content: "=EF=83=B7"; }
+
+.fa-hospital-o::before { content: "=EF=83=B8"; }
+
+.fa-ambulance::before { content: "=EF=83=B9"; }
+
+.fa-medkit::before { content: "=EF=83=BA"; }
+
+.fa-fighter-jet::before { content: "=EF=83=BB"; }
+
+.fa-beer::before { content: "=EF=83=BC"; }
+
+.fa-h-square::before { content: "=EF=83=BD"; }
+
+.fa-plus-square::before { content: "=EF=83=BE"; }
+
+.fa-angle-double-left::before { content: "=EF=84=80"; }
+
+.fa-angle-double-right::before { content: "=EF=84=81"; }
+
+.fa-angle-double-up::before { content: "=EF=84=82"; }
+
+.fa-angle-double-down::before { content: "=EF=84=83"; }
+
+.fa-angle-left::before { content: "=EF=84=84"; }
+
+.fa-angle-right::before { content: "=EF=84=85"; }
+
+.fa-angle-up::before { content: "=EF=84=86"; }
+
+.fa-angle-down::before { content: "=EF=84=87"; }
+
+.fa-desktop::before { content: "=EF=84=88"; }
+
+.fa-laptop::before { content: "=EF=84=89"; }
+
+.fa-tablet::before { content: "=EF=84=8A"; }
+
+.fa-mobile-phone::before, .fa-mobile::before { content: "=EF=84=8B"; }
+
+.fa-circle-o::before { content: "=EF=84=8C"; }
+
+.fa-quote-left::before { content: "=EF=84=8D"; }
+
+.fa-quote-right::before { content: "=EF=84=8E"; }
+
+.fa-spinner::before { content: "=EF=84=90"; }
+
+.fa-circle::before { content: "=EF=84=91"; }
+
+.fa-mail-reply::before, .fa-reply::before { content: "=EF=84=92"; }
+
+.fa-github-alt::before { content: "=EF=84=93"; }
+
+.fa-folder-o::before { content: "=EF=84=94"; }
+
+.fa-folder-open-o::before { content: "=EF=84=95"; }
+
+.fa-smile-o::before { content: "=EF=84=98"; }
+
+.fa-frown-o::before { content: "=EF=84=99"; }
+
+.fa-meh-o::before { content: "=EF=84=9A"; }
+
+.fa-gamepad::before { content: "=EF=84=9B"; }
+
+.fa-keyboard-o::before { content: "=EF=84=9C"; }
+
+.fa-flag-o::before { content: "=EF=84=9D"; }
+
+.fa-flag-checkered::before { content: "=EF=84=9E"; }
+
+.fa-terminal::before { content: "=EF=84=A0"; }
+
+.fa-code::before { content: "=EF=84=A1"; }
+
+.fa-mail-reply-all::before, .fa-reply-all::before { content: "=EF=84=A2"; }
+
+.fa-star-half-empty::before, .fa-star-half-full::before, .fa-star-half-o::b=
+efore { content: "=EF=84=A3"; }
+
+.fa-location-arrow::before { content: "=EF=84=A4"; }
+
+.fa-crop::before { content: "=EF=84=A5"; }
+
+.fa-code-fork::before { content: "=EF=84=A6"; }
+
+.fa-unlink::before, .fa-chain-broken::before { content: "=EF=84=A7"; }
+
+.fa-question::before { content: "=EF=84=A8"; }
+
+.fa-info::before { content: "=EF=84=A9"; }
+
+.fa-exclamation::before { content: "=EF=84=AA"; }
+
+.fa-superscript::before { content: "=EF=84=AB"; }
+
+.fa-subscript::before { content: "=EF=84=AC"; }
+
+.fa-eraser::before { content: "=EF=84=AD"; }
+
+.fa-puzzle-piece::before { content: "=EF=84=AE"; }
+
+.fa-microphone::before { content: "=EF=84=B0"; }
+
+.fa-microphone-slash::before { content: "=EF=84=B1"; }
+
+.fa-shield::before { content: "=EF=84=B2"; }
+
+.fa-calendar-o::before { content: "=EF=84=B3"; }
+
+.fa-fire-extinguisher::before { content: "=EF=84=B4"; }
+
+.fa-rocket::before { content: "=EF=84=B5"; }
+
+.fa-maxcdn::before { content: "=EF=84=B6"; }
+
+.fa-chevron-circle-left::before { content: "=EF=84=B7"; }
+
+.fa-chevron-circle-right::before { content: "=EF=84=B8"; }
+
+.fa-chevron-circle-up::before { content: "=EF=84=B9"; }
+
+.fa-chevron-circle-down::before { content: "=EF=84=BA"; }
+
+.fa-html5::before { content: "=EF=84=BB"; }
+
+.fa-css3::before { content: "=EF=84=BC"; }
+
+.fa-anchor::before { content: "=EF=84=BD"; }
+
+.fa-unlock-alt::before { content: "=EF=84=BE"; }
+
+.fa-bullseye::before { content: "=EF=85=80"; }
+
+.fa-ellipsis-h::before { content: "=EF=85=81"; }
+
+.fa-ellipsis-v::before { content: "=EF=85=82"; }
+
+.fa-rss-square::before { content: "=EF=85=83"; }
+
+.fa-play-circle::before { content: "=EF=85=84"; }
+
+.fa-ticket::before { content: "=EF=85=85"; }
+
+.fa-minus-square::before { content: "=EF=85=86"; }
+
+.fa-minus-square-o::before { content: "=EF=85=87"; }
+
+.fa-level-up::before { content: "=EF=85=88"; }
+
+.fa-level-down::before { content: "=EF=85=89"; }
+
+.fa-check-square::before { content: "=EF=85=8A"; }
+
+.fa-pencil-square::before { content: "=EF=85=8B"; }
+
+.fa-external-link-square::before { content: "=EF=85=8C"; }
+
+.fa-share-square::before { content: "=EF=85=8D"; }
+
+.fa-compass::before { content: "=EF=85=8E"; }
+
+.fa-toggle-down::before, .fa-caret-square-o-down::before { content: "=EF=85=
+=90"; }
+
+.fa-toggle-up::before, .fa-caret-square-o-up::before { content: "=EF=85=91"=
+; }
+
+.fa-toggle-right::before, .fa-caret-square-o-right::before { content: "=EF=
+=85=92"; }
+
+.fa-euro::before, .fa-eur::before { content: "=EF=85=93"; }
+
+.fa-gbp::before { content: "=EF=85=94"; }
+
+.fa-dollar::before, .fa-usd::before { content: "=EF=85=95"; }
+
+.fa-rupee::before, .fa-inr::before { content: "=EF=85=96"; }
+
+.fa-cny::before, .fa-rmb::before, .fa-yen::before, .fa-jpy::before { conten=
+t: "=EF=85=97"; }
+
+.fa-ruble::before, .fa-rouble::before, .fa-rub::before { content: "=EF=85=
+=98"; }
+
+.fa-won::before, .fa-krw::before { content: "=EF=85=99"; }
+
+.fa-bitcoin::before, .fa-btc::before { content: "=EF=85=9A"; }
+
+.fa-file::before { content: "=EF=85=9B"; }
+
+.fa-file-text::before { content: "=EF=85=9C"; }
+
+.fa-sort-alpha-asc::before { content: "=EF=85=9D"; }
+
+.fa-sort-alpha-desc::before { content: "=EF=85=9E"; }
+
+.fa-sort-amount-asc::before { content: "=EF=85=A0"; }
+
+.fa-sort-amount-desc::before { content: "=EF=85=A1"; }
+
+.fa-sort-numeric-asc::before { content: "=EF=85=A2"; }
+
+.fa-sort-numeric-desc::before { content: "=EF=85=A3"; }
+
+.fa-thumbs-up::before { content: "=EF=85=A4"; }
+
+.fa-thumbs-down::before { content: "=EF=85=A5"; }
+
+.fa-youtube-square::before { content: "=EF=85=A6"; }
+
+.fa-youtube::before { content: "=EF=85=A7"; }
+
+.fa-xing::before { content: "=EF=85=A8"; }
+
+.fa-xing-square::before { content: "=EF=85=A9"; }
+
+.fa-youtube-play::before { content: "=EF=85=AA"; }
+
+.fa-dropbox::before { content: "=EF=85=AB"; }
+
+.fa-stack-overflow::before { content: "=EF=85=AC"; }
+
+.fa-instagram::before { content: "=EF=85=AD"; }
+
+.fa-flickr::before { content: "=EF=85=AE"; }
+
+.fa-adn::before { content: "=EF=85=B0"; }
+
+.fa-bitbucket::before { content: "=EF=85=B1"; }
+
+.fa-bitbucket-square::before { content: "=EF=85=B2"; }
+
+.fa-tumblr::before { content: "=EF=85=B3"; }
+
+.fa-tumblr-square::before { content: "=EF=85=B4"; }
+
+.fa-long-arrow-down::before { content: "=EF=85=B5"; }
+
+.fa-long-arrow-up::before { content: "=EF=85=B6"; }
+
+.fa-long-arrow-left::before { content: "=EF=85=B7"; }
+
+.fa-long-arrow-right::before { content: "=EF=85=B8"; }
+
+.fa-apple::before { content: "=EF=85=B9"; }
+
+.fa-windows::before { content: "=EF=85=BA"; }
+
+.fa-android::before { content: "=EF=85=BB"; }
+
+.fa-linux::before { content: "=EF=85=BC"; }
+
+.fa-dribbble::before { content: "=EF=85=BD"; }
+
+.fa-skype::before { content: "=EF=85=BE"; }
+
+.fa-foursquare::before { content: "=EF=86=80"; }
+
+.fa-trello::before { content: "=EF=86=81"; }
+
+.fa-female::before { content: "=EF=86=82"; }
+
+.fa-male::before { content: "=EF=86=83"; }
+
+.fa-gittip::before, .fa-gratipay::before { content: "=EF=86=84"; }
+
+.fa-sun-o::before { content: "=EF=86=85"; }
+
+.fa-moon-o::before { content: "=EF=86=86"; }
+
+.fa-archive::before { content: "=EF=86=87"; }
+
+.fa-bug::before { content: "=EF=86=88"; }
+
+.fa-vk::before { content: "=EF=86=89"; }
+
+.fa-weibo::before { content: "=EF=86=8A"; }
+
+.fa-renren::before { content: "=EF=86=8B"; }
+
+.fa-pagelines::before { content: "=EF=86=8C"; }
+
+.fa-stack-exchange::before { content: "=EF=86=8D"; }
+
+.fa-arrow-circle-o-right::before { content: "=EF=86=8E"; }
+
+.fa-arrow-circle-o-left::before { content: "=EF=86=90"; }
+
+.fa-toggle-left::before, .fa-caret-square-o-left::before { content: "=EF=86=
+=91"; }
+
+.fa-dot-circle-o::before { content: "=EF=86=92"; }
+
+.fa-wheelchair::before { content: "=EF=86=93"; }
+
+.fa-vimeo-square::before { content: "=EF=86=94"; }
+
+.fa-turkish-lira::before, .fa-try::before { content: "=EF=86=95"; }
+
+.fa-plus-square-o::before { content: "=EF=86=96"; }
+
+.fa-space-shuttle::before { content: "=EF=86=97"; }
+
+.fa-slack::before { content: "=EF=86=98"; }
+
+.fa-envelope-square::before { content: "=EF=86=99"; }
+
+.fa-wordpress::before { content: "=EF=86=9A"; }
+
+.fa-openid::before { content: "=EF=86=9B"; }
+
+.fa-institution::before, .fa-bank::before, .fa-university::before { content=
+: "=EF=86=9C"; }
+
+.fa-mortar-board::before, .fa-graduation-cap::before { content: "=EF=86=9D"=
+; }
+
+.fa-yahoo::before { content: "=EF=86=9E"; }
+
+.fa-google::before { content: "=EF=86=A0"; }
+
+.fa-reddit::before { content: "=EF=86=A1"; }
+
+.fa-reddit-square::before { content: "=EF=86=A2"; }
+
+.fa-stumbleupon-circle::before { content: "=EF=86=A3"; }
+
+.fa-stumbleupon::before { content: "=EF=86=A4"; }
+
+.fa-delicious::before { content: "=EF=86=A5"; }
+
+.fa-digg::before { content: "=EF=86=A6"; }
+
+.fa-pied-piper-pp::before { content: "=EF=86=A7"; }
+
+.fa-pied-piper-alt::before { content: "=EF=86=A8"; }
+
+.fa-drupal::before { content: "=EF=86=A9"; }
+
+.fa-joomla::before { content: "=EF=86=AA"; }
+
+.fa-language::before { content: "=EF=86=AB"; }
+
+.fa-fax::before { content: "=EF=86=AC"; }
+
+.fa-building::before { content: "=EF=86=AD"; }
+
+.fa-child::before { content: "=EF=86=AE"; }
+
+.fa-paw::before { content: "=EF=86=B0"; }
+
+.fa-spoon::before { content: "=EF=86=B1"; }
+
+.fa-cube::before { content: "=EF=86=B2"; }
+
+.fa-cubes::before { content: "=EF=86=B3"; }
+
+.fa-behance::before { content: "=EF=86=B4"; }
+
+.fa-behance-square::before { content: "=EF=86=B5"; }
+
+.fa-steam::before { content: "=EF=86=B6"; }
+
+.fa-steam-square::before { content: "=EF=86=B7"; }
+
+.fa-recycle::before { content: "=EF=86=B8"; }
+
+.fa-automobile::before, .fa-car::before { content: "=EF=86=B9"; }
+
+.fa-cab::before, .fa-taxi::before { content: "=EF=86=BA"; }
+
+.fa-tree::before { content: "=EF=86=BB"; }
+
+.fa-spotify::before { content: "=EF=86=BC"; }
+
+.fa-deviantart::before { content: "=EF=86=BD"; }
+
+.fa-soundcloud::before { content: "=EF=86=BE"; }
+
+.fa-database::before { content: "=EF=87=80"; }
+
+.fa-file-pdf-o::before { content: "=EF=87=81"; }
+
+.fa-file-word-o::before { content: "=EF=87=82"; }
+
+.fa-file-excel-o::before { content: "=EF=87=83"; }
+
+.fa-file-powerpoint-o::before { content: "=EF=87=84"; }
+
+.fa-file-photo-o::before, .fa-file-picture-o::before, .fa-file-image-o::bef=
+ore { content: "=EF=87=85"; }
+
+.fa-file-zip-o::before, .fa-file-archive-o::before { content: "=EF=87=86"; =
+}
+
+.fa-file-sound-o::before, .fa-file-audio-o::before { content: "=EF=87=87"; =
+}
+
+.fa-file-movie-o::before, .fa-file-video-o::before { content: "=EF=87=88"; =
+}
+
+.fa-file-code-o::before { content: "=EF=87=89"; }
+
+.fa-vine::before { content: "=EF=87=8A"; }
+
+.fa-codepen::before { content: "=EF=87=8B"; }
+
+.fa-jsfiddle::before { content: "=EF=87=8C"; }
+
+.fa-life-bouy::before, .fa-life-buoy::before, .fa-life-saver::before, .fa-s=
+upport::before, .fa-life-ring::before { content: "=EF=87=8D"; }
+
+.fa-circle-o-notch::before { content: "=EF=87=8E"; }
+
+.fa-ra::before, .fa-resistance::before, .fa-rebel::before { content: "=EF=
+=87=90"; }
+
+.fa-ge::before, .fa-empire::before { content: "=EF=87=91"; }
+
+.fa-git-square::before { content: "=EF=87=92"; }
+
+.fa-git::before { content: "=EF=87=93"; }
+
+.fa-y-combinator-square::before, .fa-yc-square::before, .fa-hacker-news::be=
+fore { content: "=EF=87=94"; }
+
+.fa-tencent-weibo::before { content: "=EF=87=95"; }
+
+.fa-qq::before { content: "=EF=87=96"; }
+
+.fa-wechat::before, .fa-weixin::before { content: "=EF=87=97"; }
+
+.fa-send::before, .fa-paper-plane::before { content: "=EF=87=98"; }
+
+.fa-send-o::before, .fa-paper-plane-o::before { content: "=EF=87=99"; }
+
+.fa-history::before { content: "=EF=87=9A"; }
+
+.fa-circle-thin::before { content: "=EF=87=9B"; }
+
+.fa-header::before { content: "=EF=87=9C"; }
+
+.fa-paragraph::before { content: "=EF=87=9D"; }
+
+.fa-sliders::before { content: "=EF=87=9E"; }
+
+.fa-share-alt::before { content: "=EF=87=A0"; }
+
+.fa-share-alt-square::before { content: "=EF=87=A1"; }
+
+.fa-bomb::before { content: "=EF=87=A2"; }
+
+.fa-soccer-ball-o::before, .fa-futbol-o::before { content: "=EF=87=A3"; }
+
+.fa-tty::before { content: "=EF=87=A4"; }
+
+.fa-binoculars::before { content: "=EF=87=A5"; }
+
+.fa-plug::before { content: "=EF=87=A6"; }
+
+.fa-slideshare::before { content: "=EF=87=A7"; }
+
+.fa-twitch::before { content: "=EF=87=A8"; }
+
+.fa-yelp::before { content: "=EF=87=A9"; }
+
+.fa-newspaper-o::before { content: "=EF=87=AA"; }
+
+.fa-wifi::before { content: "=EF=87=AB"; }
+
+.fa-calculator::before { content: "=EF=87=AC"; }
+
+.fa-paypal::before { content: "=EF=87=AD"; }
+
+.fa-google-wallet::before { content: "=EF=87=AE"; }
+
+.fa-cc-visa::before { content: "=EF=87=B0"; }
+
+.fa-cc-mastercard::before { content: "=EF=87=B1"; }
+
+.fa-cc-discover::before { content: "=EF=87=B2"; }
+
+.fa-cc-amex::before { content: "=EF=87=B3"; }
+
+.fa-cc-paypal::before { content: "=EF=87=B4"; }
+
+.fa-cc-stripe::before { content: "=EF=87=B5"; }
+
+.fa-bell-slash::before { content: "=EF=87=B6"; }
+
+.fa-bell-slash-o::before { content: "=EF=87=B7"; }
+
+.fa-trash::before { content: "=EF=87=B8"; }
+
+.fa-copyright::before { content: "=EF=87=B9"; }
+
+.fa-at::before { content: "=EF=87=BA"; }
+
+.fa-eyedropper::before { content: "=EF=87=BB"; }
+
+.fa-paint-brush::before { content: "=EF=87=BC"; }
+
+.fa-birthday-cake::before { content: "=EF=87=BD"; }
+
+.fa-area-chart::before { content: "=EF=87=BE"; }
+
+.fa-pie-chart::before { content: "=EF=88=80"; }
+
+.fa-line-chart::before { content: "=EF=88=81"; }
+
+.fa-lastfm::before { content: "=EF=88=82"; }
+
+.fa-lastfm-square::before { content: "=EF=88=83"; }
+
+.fa-toggle-off::before { content: "=EF=88=84"; }
+
+.fa-toggle-on::before { content: "=EF=88=85"; }
+
+.fa-bicycle::before { content: "=EF=88=86"; }
+
+.fa-bus::before { content: "=EF=88=87"; }
+
+.fa-ioxhost::before { content: "=EF=88=88"; }
+
+.fa-angellist::before { content: "=EF=88=89"; }
+
+.fa-cc::before { content: "=EF=88=8A"; }
+
+.fa-shekel::before, .fa-sheqel::before, .fa-ils::before { content: "=EF=88=
+=8B"; }
+
+.fa-meanpath::before { content: "=EF=88=8C"; }
+
+.fa-buysellads::before { content: "=EF=88=8D"; }
+
+.fa-connectdevelop::before { content: "=EF=88=8E"; }
+
+.fa-dashcube::before { content: "=EF=88=90"; }
+
+.fa-forumbee::before { content: "=EF=88=91"; }
+
+.fa-leanpub::before { content: "=EF=88=92"; }
+
+.fa-sellsy::before { content: "=EF=88=93"; }
+
+.fa-shirtsinbulk::before { content: "=EF=88=94"; }
+
+.fa-simplybuilt::before { content: "=EF=88=95"; }
+
+.fa-skyatlas::before { content: "=EF=88=96"; }
+
+.fa-cart-plus::before { content: "=EF=88=97"; }
+
+.fa-cart-arrow-down::before { content: "=EF=88=98"; }
+
+.fa-diamond::before { content: "=EF=88=99"; }
+
+.fa-ship::before { content: "=EF=88=9A"; }
+
+.fa-user-secret::before { content: "=EF=88=9B"; }
+
+.fa-motorcycle::before { content: "=EF=88=9C"; }
+
+.fa-street-view::before { content: "=EF=88=9D"; }
+
+.fa-heartbeat::before { content: "=EF=88=9E"; }
+
+.fa-venus::before { content: "=EF=88=A1"; }
+
+.fa-mars::before { content: "=EF=88=A2"; }
+
+.fa-mercury::before { content: "=EF=88=A3"; }
+
+.fa-intersex::before, .fa-transgender::before { content: "=EF=88=A4"; }
+
+.fa-transgender-alt::before { content: "=EF=88=A5"; }
+
+.fa-venus-double::before { content: "=EF=88=A6"; }
+
+.fa-mars-double::before { content: "=EF=88=A7"; }
+
+.fa-venus-mars::before { content: "=EF=88=A8"; }
+
+.fa-mars-stroke::before { content: "=EF=88=A9"; }
+
+.fa-mars-stroke-v::before { content: "=EF=88=AA"; }
+
+.fa-mars-stroke-h::before { content: "=EF=88=AB"; }
+
+.fa-neuter::before { content: "=EF=88=AC"; }
+
+.fa-genderless::before { content: "=EF=88=AD"; }
+
+.fa-facebook-official::before { content: "=EF=88=B0"; }
+
+.fa-pinterest-p::before { content: "=EF=88=B1"; }
+
+.fa-whatsapp::before { content: "=EF=88=B2"; }
+
+.fa-server::before { content: "=EF=88=B3"; }
+
+.fa-user-plus::before { content: "=EF=88=B4"; }
+
+.fa-user-times::before { content: "=EF=88=B5"; }
+
+.fa-hotel::before, .fa-bed::before { content: "=EF=88=B6"; }
+
+.fa-viacoin::before { content: "=EF=88=B7"; }
+
+.fa-train::before { content: "=EF=88=B8"; }
+
+.fa-subway::before { content: "=EF=88=B9"; }
+
+.fa-medium::before { content: "=EF=88=BA"; }
+
+.fa-yc::before, .fa-y-combinator::before { content: "=EF=88=BB"; }
+
+.fa-optin-monster::before { content: "=EF=88=BC"; }
+
+.fa-opencart::before { content: "=EF=88=BD"; }
+
+.fa-expeditedssl::before { content: "=EF=88=BE"; }
+
+.fa-battery-4::before, .fa-battery::before, .fa-battery-full::before { cont=
+ent: "=EF=89=80"; }
+
+.fa-battery-3::before, .fa-battery-three-quarters::before { content: "=EF=
+=89=81"; }
+
+.fa-battery-2::before, .fa-battery-half::before { content: "=EF=89=82"; }
+
+.fa-battery-1::before, .fa-battery-quarter::before { content: "=EF=89=83"; =
+}
+
+.fa-battery-0::before, .fa-battery-empty::before { content: "=EF=89=84"; }
+
+.fa-mouse-pointer::before { content: "=EF=89=85"; }
+
+.fa-i-cursor::before { content: "=EF=89=86"; }
+
+.fa-object-group::before { content: "=EF=89=87"; }
+
+.fa-object-ungroup::before { content: "=EF=89=88"; }
+
+.fa-sticky-note::before { content: "=EF=89=89"; }
+
+.fa-sticky-note-o::before { content: "=EF=89=8A"; }
+
+.fa-cc-jcb::before { content: "=EF=89=8B"; }
+
+.fa-cc-diners-club::before { content: "=EF=89=8C"; }
+
+.fa-clone::before { content: "=EF=89=8D"; }
+
+.fa-balance-scale::before { content: "=EF=89=8E"; }
+
+.fa-hourglass-o::before { content: "=EF=89=90"; }
+
+.fa-hourglass-1::before, .fa-hourglass-start::before { content: "=EF=89=91"=
+; }
+
+.fa-hourglass-2::before, .fa-hourglass-half::before { content: "=EF=89=92";=
+ }
+
+.fa-hourglass-3::before, .fa-hourglass-end::before { content: "=EF=89=93"; =
+}
+
+.fa-hourglass::before { content: "=EF=89=94"; }
+
+.fa-hand-grab-o::before, .fa-hand-rock-o::before { content: "=EF=89=95"; }
+
+.fa-hand-stop-o::before, .fa-hand-paper-o::before { content: "=EF=89=96"; }
+
+.fa-hand-scissors-o::before { content: "=EF=89=97"; }
+
+.fa-hand-lizard-o::before { content: "=EF=89=98"; }
+
+.fa-hand-spock-o::before { content: "=EF=89=99"; }
+
+.fa-hand-pointer-o::before { content: "=EF=89=9A"; }
+
+.fa-hand-peace-o::before { content: "=EF=89=9B"; }
+
+.fa-trademark::before { content: "=EF=89=9C"; }
+
+.fa-registered::before { content: "=EF=89=9D"; }
+
+.fa-creative-commons::before { content: "=EF=89=9E"; }
+
+.fa-gg::before { content: "=EF=89=A0"; }
+
+.fa-gg-circle::before { content: "=EF=89=A1"; }
+
+.fa-tripadvisor::before { content: "=EF=89=A2"; }
+
+.fa-odnoklassniki::before { content: "=EF=89=A3"; }
+
+.fa-odnoklassniki-square::before { content: "=EF=89=A4"; }
+
+.fa-get-pocket::before { content: "=EF=89=A5"; }
+
+.fa-wikipedia-w::before { content: "=EF=89=A6"; }
+
+.fa-safari::before { content: "=EF=89=A7"; }
+
+.fa-chrome::before { content: "=EF=89=A8"; }
+
+.fa-firefox::before { content: "=EF=89=A9"; }
+
+.fa-opera::before { content: "=EF=89=AA"; }
+
+.fa-internet-explorer::before { content: "=EF=89=AB"; }
+
+.fa-tv::before, .fa-television::before { content: "=EF=89=AC"; }
+
+.fa-contao::before { content: "=EF=89=AD"; }
+
+.fa-500px::before { content: "=EF=89=AE"; }
+
+.fa-amazon::before { content: "=EF=89=B0"; }
+
+.fa-calendar-plus-o::before { content: "=EF=89=B1"; }
+
+.fa-calendar-minus-o::before { content: "=EF=89=B2"; }
+
+.fa-calendar-times-o::before { content: "=EF=89=B3"; }
+
+.fa-calendar-check-o::before { content: "=EF=89=B4"; }
+
+.fa-industry::before { content: "=EF=89=B5"; }
+
+.fa-map-pin::before { content: "=EF=89=B6"; }
+
+.fa-map-signs::before { content: "=EF=89=B7"; }
+
+.fa-map-o::before { content: "=EF=89=B8"; }
+
+.fa-map::before { content: "=EF=89=B9"; }
+
+.fa-commenting::before { content: "=EF=89=BA"; }
+
+.fa-commenting-o::before { content: "=EF=89=BB"; }
+
+.fa-houzz::before { content: "=EF=89=BC"; }
+
+.fa-vimeo::before { content: "=EF=89=BD"; }
+
+.fa-black-tie::before { content: "=EF=89=BE"; }
+
+.fa-fonticons::before { content: "=EF=8A=80"; }
+
+.fa-reddit-alien::before { content: "=EF=8A=81"; }
+
+.fa-edge::before { content: "=EF=8A=82"; }
+
+.fa-credit-card-alt::before { content: "=EF=8A=83"; }
+
+.fa-codiepie::before { content: "=EF=8A=84"; }
+
+.fa-modx::before { content: "=EF=8A=85"; }
+
+.fa-fort-awesome::before { content: "=EF=8A=86"; }
+
+.fa-usb::before { content: "=EF=8A=87"; }
+
+.fa-product-hunt::before { content: "=EF=8A=88"; }
+
+.fa-mixcloud::before { content: "=EF=8A=89"; }
+
+.fa-scribd::before { content: "=EF=8A=8A"; }
+
+.fa-pause-circle::before { content: "=EF=8A=8B"; }
+
+.fa-pause-circle-o::before { content: "=EF=8A=8C"; }
+
+.fa-stop-circle::before { content: "=EF=8A=8D"; }
+
+.fa-stop-circle-o::before { content: "=EF=8A=8E"; }
+
+.fa-shopping-bag::before { content: "=EF=8A=90"; }
+
+.fa-shopping-basket::before { content: "=EF=8A=91"; }
+
+.fa-hashtag::before { content: "=EF=8A=92"; }
+
+.fa-bluetooth::before { content: "=EF=8A=93"; }
+
+.fa-bluetooth-b::before { content: "=EF=8A=94"; }
+
+.fa-percent::before { content: "=EF=8A=95"; }
+
+.fa-gitlab::before { content: "=EF=8A=96"; }
+
+.fa-wpbeginner::before { content: "=EF=8A=97"; }
+
+.fa-wpforms::before { content: "=EF=8A=98"; }
+
+.fa-envira::before { content: "=EF=8A=99"; }
+
+.fa-universal-access::before { content: "=EF=8A=9A"; }
+
+.fa-wheelchair-alt::before { content: "=EF=8A=9B"; }
+
+.fa-question-circle-o::before { content: "=EF=8A=9C"; }
+
+.fa-blind::before { content: "=EF=8A=9D"; }
+
+.fa-audio-description::before { content: "=EF=8A=9E"; }
+
+.fa-volume-control-phone::before { content: "=EF=8A=A0"; }
+
+.fa-braille::before { content: "=EF=8A=A1"; }
+
+.fa-assistive-listening-systems::before { content: "=EF=8A=A2"; }
+
+.fa-asl-interpreting::before, .fa-american-sign-language-interpreting::befo=
+re { content: "=EF=8A=A3"; }
+
+.fa-deafness::before, .fa-hard-of-hearing::before, .fa-deaf::before { conte=
+nt: "=EF=8A=A4"; }
+
+.fa-glide::before { content: "=EF=8A=A5"; }
+
+.fa-glide-g::before { content: "=EF=8A=A6"; }
+
+.fa-signing::before, .fa-sign-language::before { content: "=EF=8A=A7"; }
+
+.fa-low-vision::before { content: "=EF=8A=A8"; }
+
+.fa-viadeo::before { content: "=EF=8A=A9"; }
+
+.fa-viadeo-square::before { content: "=EF=8A=AA"; }
+
+.fa-snapchat::before { content: "=EF=8A=AB"; }
+
+.fa-snapchat-ghost::before { content: "=EF=8A=AC"; }
+
+.fa-snapchat-square::before { content: "=EF=8A=AD"; }
+
+.fa-pied-piper::before { content: "=EF=8A=AE"; }
+
+.fa-first-order::before { content: "=EF=8A=B0"; }
+
+.fa-yoast::before { content: "=EF=8A=B1"; }
+
+.fa-themeisle::before { content: "=EF=8A=B2"; }
+
+.fa-google-plus-circle::before, .fa-google-plus-official::before { content:=
+ "=EF=8A=B3"; }
+
+.fa-fa::before, .fa-font-awesome::before { content: "=EF=8A=B4"; }
+
+.fa-handshake-o::before { content: "=EF=8A=B5"; }
+
+.fa-envelope-open::before { content: "=EF=8A=B6"; }
+
+.fa-envelope-open-o::before { content: "=EF=8A=B7"; }
+
+.fa-linode::before { content: "=EF=8A=B8"; }
+
+.fa-address-book::before { content: "=EF=8A=B9"; }
+
+.fa-address-book-o::before { content: "=EF=8A=BA"; }
+
+.fa-vcard::before, .fa-address-card::before { content: "=EF=8A=BB"; }
+
+.fa-vcard-o::before, .fa-address-card-o::before { content: "=EF=8A=BC"; }
+
+.fa-user-circle::before { content: "=EF=8A=BD"; }
+
+.fa-user-circle-o::before { content: "=EF=8A=BE"; }
+
+.fa-user-o::before { content: "=EF=8B=80"; }
+
+.fa-id-badge::before { content: "=EF=8B=81"; }
+
+.fa-drivers-license::before, .fa-id-card::before { content: "=EF=8B=82"; }
+
+.fa-drivers-license-o::before, .fa-id-card-o::before { content: "=EF=8B=83"=
+; }
+
+.fa-quora::before { content: "=EF=8B=84"; }
+
+.fa-free-code-camp::before { content: "=EF=8B=85"; }
+
+.fa-telegram::before { content: "=EF=8B=86"; }
+
+.fa-thermometer-4::before, .fa-thermometer::before, .fa-thermometer-full::b=
+efore { content: "=EF=8B=87"; }
+
+.fa-thermometer-3::before, .fa-thermometer-three-quarters::before { content=
+: "=EF=8B=88"; }
+
+.fa-thermometer-2::before, .fa-thermometer-half::before { content: "=EF=8B=
+=89"; }
+
+.fa-thermometer-1::before, .fa-thermometer-quarter::before { content: "=EF=
+=8B=8A"; }
+
+.fa-thermometer-0::before, .fa-thermometer-empty::before { content: "=EF=8B=
+=8B"; }
+
+.fa-shower::before { content: "=EF=8B=8C"; }
+
+.fa-bathtub::before, .fa-s15::before, .fa-bath::before { content: "=EF=8B=
+=8D"; }
+
+.fa-podcast::before { content: "=EF=8B=8E"; }
+
+.fa-window-maximize::before { content: "=EF=8B=90"; }
+
+.fa-window-minimize::before { content: "=EF=8B=91"; }
+
+.fa-window-restore::before { content: "=EF=8B=92"; }
+
+.fa-times-rectangle::before, .fa-window-close::before { content: "=EF=8B=93=
+"; }
+
+.fa-times-rectangle-o::before, .fa-window-close-o::before { content: "=EF=
+=8B=94"; }
+
+.fa-bandcamp::before { content: "=EF=8B=95"; }
+
+.fa-grav::before { content: "=EF=8B=96"; }
+
+.fa-etsy::before { content: "=EF=8B=97"; }
+
+.fa-imdb::before { content: "=EF=8B=98"; }
+
+.fa-ravelry::before { content: "=EF=8B=99"; }
+
+.fa-eercast::before { content: "=EF=8B=9A"; }
+
+.fa-microchip::before { content: "=EF=8B=9B"; }
+
+.fa-snowflake-o::before { content: "=EF=8B=9C"; }
+
+.fa-superpowers::before { content: "=EF=8B=9D"; }
+
+.fa-wpexplorer::before { content: "=EF=8B=9E"; }
+
+.fa-meetup::before { content: "=EF=8B=A0"; }
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margi=
+n: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
+
+.sr-only-focusable:active, .sr-only-focusable:focus { position: static; wid=
+th: auto; height: auto; margin: 0px; overflow: visible; clip: auto; }
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://codehimblog.github.io/jquery-codehim-analog-clock/docs/demo-only.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; }
+
+@font-face { src: local("Helvetica Neue"), local("HelveticaNeue"), url("htt=
+p://themes.googleusercontent.com/licensed/font?kit=3DLx1xfUTR4qFjwg0Z_pb900=
+DGSpWewu0sZH-jqLz8Q00") format("truetype"); }
+
+body { font-family: "Helvetica Neue"; font-style: normal; font-weight: 300;=
+ -webkit-font-smoothing: antialiased; font-size: 15px; background: rgb(238,=
+ 238, 238); }
+
+.intro { background: rgb(221, 221, 221); padding: 60px 30px; color: rgb(51,=
+ 51, 51); margin-bottom: 15px; line-height: 1.5; text-align: center; }
+
+.intro h1 { font-size: 18pt; }
+
+.intro p { font-size: 14px; }
+
+.action { text-align: center; display: block; margin-top: 20px; }
+
+a.btn { text-decoration: none; color: rgb(102, 102, 102); border: 2px solid=
+ rgb(102, 102, 102); padding: 10px 15px; display: inline-block; margin-left=
+: 5px; }
+
+a.btn:hover { background: rgb(102, 102, 102); color: rgb(255, 255, 255); tr=
+ansition: all 0.3s ease 0s; }
+
+.github::before, .down::before { font-family: FontAwesome; font-weight: nor=
+mal; margin-right: 10px; }
+
+.github::before { content: "=EF=82=9B"; }
+
+.down::before { content: "=EF=80=99"; }
+
+.credit { background: rgb(255, 255, 255); padding: 12px; font-size: 9pt; te=
+xt-align: center; color: rgb(51, 51, 51); margin-top: 40px; }
+
+.credit span::before { font-family: FontAwesome; color: rgb(228, 27, 23); c=
+ontent: "=EF=80=84"; }
+
+.credit a { color: rgb(51, 51, 51); text-decoration: none; }
+
+.credit a:hover { color: rgb(228, 27, 23); }
+
+.credit a:hover::after { font-family: Material-Design-Iconic-Font; content:=
+ "=EF=82=8E"; font-size: 9pt; position: absolute; margin: 3px; }
+
+main { background: rgb(255, 255, 255); margin: 20px; }
+
+article li { color: rgb(68, 68, 68); font-size: 15px; margin-left: 33px; li=
+ne-height: 1.5; padding: 5px; }
+
+article h1, article h2, article h3, article p { padding: 10px; color: rgb(5=
+1, 51, 51); }
+
+article p { font-size: 15px; line-height: 1.5; }
+
+@media only screen and (min-width: 720px) {
+  main { width: 720px; box-shadow: rgba(0, 0, 0, 0.3) 1px 2px 5px; margin-l=
+eft: auto; margin-right: auto; background: rgb(249, 249, 249); }
+}
+
+pre.prettyprint { margin: 10px; padding: 10px; border: 0px; background: rgb=
+(242, 242, 242); overflow: auto; }
+
+.source { white-space: pre; overflow: auto; max-height: 400px; }
+
+article { margin: 20px; }
+
+h1, h2, h3, h4 { margin: 10px 0px; }
+
+code { border: 1px solid rgb(221, 221, 221); padding: 1px; border-radius: 1=
+px; }
+
+article img { width: 100%; margin: 10px; height: auto; box-sizing: border-b=
+ox; }
+------MultipartBoundary--7Iz4ezHuXjoR3uWM9SqcMl7kMf4CFfa11rwYOSXLzy------
